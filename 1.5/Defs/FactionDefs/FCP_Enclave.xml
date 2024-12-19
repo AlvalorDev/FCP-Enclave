@@ -3,7 +3,7 @@
 
     <!--__________ Factions __________-->
 
-    <!-- Reilly's Rangers -->
+    <!-- Enclave -->
 
     <FactionDef ParentName="FactionBase">
         <defName>FCP_Faction_Enclave</defName>
