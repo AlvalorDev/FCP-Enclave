@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Cultures and Styles __________-->
+
+    <!--_____ Enclave _____-->
+
+    <!-- Cultures -->
+
+    <CultureDef>
+        <defName>FCP_Culture_Enclave</defName>
+        <label>Enclave</label>
+        <description>Culture of those in the Enclave, a pre-war US shadow government faction.</description>
+        <pawnNameMaker>FCP_Retro_Namer_Male</pawnNameMaker>
+        <pawnNameMakerFemale>FCP_Retro_Namer_Female</pawnNameMakerFemale>
+        <ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoAstropolitan</ideoNameMaker>
+        <deityNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerDeityAstropolitan</deityNameMaker>
+        <deityTypeMaker MayRequire="Ludeon.RimWorld.Ideology">DeityTypeMakerAstropolitan</deityTypeMaker>
+        <leaderTitleMaker MayRequire="Ludeon.RimWorld.Ideology">FCP_LeaderTitleMaker_Enclave</leaderTitleMaker>
+        <festivalNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerFestivalAstropolitan</festivalNameMaker>
+        <allowedPlaceTags>
+            <li>OriginSpacer</li>
+        </allowedPlaceTags>
+        <iconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</iconPath>
+        <styleItemTags>
+            <li>
+                <tag>Urban</tag>
+                <baseWeight>1</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+            <li>
+                <tag>Rural</tag>
+                <baseWeight>0</baseWeight>
+                <weightFactor>0</weightFactor>
+            </li>
+            <li>
+                <tag>NoBeard</tag>
+                <baseWeight>1</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+            <li>
+                <tag>BeardUrban</tag>
+                <baseWeight>0</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+            <li>
+                <tag>BeardRural</tag>
+                <baseWeight>0</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+            <li>
+                <tag>MoustacheOnly</tag>
+                <baseWeight>0.15</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+            <li>
+                <tag>NoTattoo</tag>
+                <baseWeight>1</baseWeight>
+                <weightFactor>1</weightFactor>
+            </li>
+        </styleItemTags>
+    </CultureDef>
+
+    <!-- Styles -->
+
+    <StyleCategoryDef>
+        <defName>FCP_Style_Enclave</defName>
+        <label>Commonwealth Enclave</label>
+        <iconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</iconPath>
+        <!-- <soundOngoingRitual></soundOngoingRitual> -->
+        <ritualVisualEffectDef>Rustic</ritualVisualEffectDef>
+        <thingDefStyles>
+        </thingDefStyles>
+    </StyleCategoryDef>
+
+</Defs>
