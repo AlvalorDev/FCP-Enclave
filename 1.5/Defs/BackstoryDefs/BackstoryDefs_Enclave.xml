@@ -12,8 +12,8 @@
     <!-- President Richardson Sr -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_President_Richardson_Sr</defName>
-        <identifier>FCP_Enclave_President_Richardson_Sr</identifier>
+        <defName>FCP_Backstory_Enclave_President_Richardson_Sr</defName>
+        <identifier>FCP_Backstory_Enclave_President_Richardson_Sr</identifier>
         <slot>Adulthood</slot>
         <title>Enclave President</title>
         <titleShort>President</titleShort>
@@ -27,7 +27,7 @@
         <workDisables>ManualDumb, Violent</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_President_Richardson_Sr</li>
+            <li>FCP_Backstory_Enclave_President_Richardson_Sr</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -37,8 +37,8 @@
     <!-- President Dick Richardson -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_President_Richardson_Jr</defName>
-        <identifier>FCP_Enclave_President_Richardson_Jr</identifier>
+        <defName>FCP_Backstory_Enclave_President_Richardson_Jr</defName>
+        <identifier>FCP_Backstory_Enclave_President_Richardson_Jr</identifier>
         <slot>Adulthood</slot>
         <title>Enclave President</title>
         <titleShort>President</titleShort>
@@ -52,7 +52,7 @@
         <workDisables>ManualDumb, Violent</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_President_Richardson_Jr</li>
+            <li>FCP_Backstory_Enclave_President_Richardson_Jr</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -62,8 +62,8 @@
     <!-- Vice President Bird -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Vice_President_Bird</defName>
-        <identifier>FCP_Enclave_Vice_President_Bird</identifier>
+        <defName>FCP_Backstory_Enclave_Vice_President_Bird</defName>
+        <identifier>FCP_Backstory_Enclave_Vice_President_Bird</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Vice President</title>
         <titleShort>Vice President</titleShort>
@@ -77,7 +77,7 @@
         <workDisables>ManualDumb, Violent</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Vice_President_Bird</li>
+            <li>FCP_Backstory_Enclave_Vice_President_Bird</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -87,8 +87,8 @@
     <!-- Arcade Ganon Sr -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Arcade_Gannon_Sr</defName>
-        <identifier>FCP_Enclave_Arcade_Gannon_Sr</identifier>
+        <defName>FCP_Backstory_Enclave_Arcade_Gannon_Sr</defName>
+        <identifier>FCP_Backstory_Enclave_Arcade_Gannon_Sr</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Scientist</title>
         <titleShort>Scientist</titleShort>
@@ -102,7 +102,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Arcade_Gannon_Sr</li>
+            <li>FCP_Backstory_Enclave_Arcade_Gannon_Sr</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -112,8 +112,8 @@
     <!-- Dr. Schreber -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Dr_Schreber</defName>
-        <identifier>FCP_Enclave_Dr_Schreber</identifier>
+        <defName>FCP_Backstory_Enclave_Dr_Schreber</defName>
+        <identifier>FCP_Backstory_Enclave_Dr_Schreber</identifier>
         <slot>Adulthood</slot>
         <title>Head Physician</title>
         <titleShort>Physician</titleShort>
@@ -127,7 +127,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Dr_Schreber</li>
+            <li>FCP_Backstory_Enclave_Dr_Schreber</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -137,8 +137,8 @@
     <!-- Dr. Henry -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Dr_Henry</defName>
-        <identifier>FCP_Enclave_Dr_Henry</identifier>
+        <defName>FCP_Backstory_Enclave_Dr_Henry</defName>
+        <identifier>FCP_Backstory_Enclave_Dr_Henry</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Scientist</title>
         <titleShort>Scientist</titleShort>
@@ -152,7 +152,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Dr_Henry</li>
+            <li>FCP_Backstory_Enclave_Dr_Henry</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -162,8 +162,8 @@
     <!-- Dr. Charles Curling -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Dr_Charles_Curling</defName>
-        <identifier>FCP_Enclave_Dr_Charles_Curling</identifier>
+        <defName>FCP_Backstory_Enclave_Dr_Charles_Curling</defName>
+        <identifier>FCP_Backstory_Enclave_Dr_Charles_Curling</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Scientist</title>
         <titleShort>Scientist</titleShort>
@@ -177,7 +177,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Dr_Charles_Curling</li>
+            <li>FCP_Backstory_Enclave_Dr_Charles_Curling</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -187,8 +187,8 @@
     <!-- Anna Holt -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Anna_Holt</defName>
-        <identifier>FCP_Enclave_Anna_Holt</identifier>
+        <defName>FCP_Backstory_Enclave_Anna_Holt</defName>
+        <identifier>FCP_Backstory_Enclave_Anna_Holt</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Botanist</title>
         <titleShort>Botanist</titleShort>
@@ -202,7 +202,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Anna_Holt</li>
+            <li>FCP_Backstory_Enclave_Anna_Holt</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -212,8 +212,8 @@
     <!-- Tom Murray -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Tom_Murray</defName>
-        <identifier>FCP_Enclave_Tom_Murray</identifier>
+        <defName>FCP_Backstory_Enclave_Tom_Murray</defName>
+        <identifier>FCP_Backstory_Enclave_Tom_Murray</identifier>
         <slot>Adulthood</slot>
         <title>Atomic Energy Commissioner</title>
         <titleShort>Commissioner</titleShort>
@@ -227,7 +227,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Tom_Murray</li>
+            <li>FCP_Backstory_Enclave_Tom_Murray</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -237,8 +237,8 @@
     <!-- Vertibird Mechanic Raul -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Raul</defName>
-        <identifier>FCP_Enclave_Raul</identifier>
+        <defName>FCP_Backstory_Enclave_Raul</defName>
+        <identifier>FCP_Backstory_Enclave_Raul</identifier>
         <slot>Adulthood</slot>
         <title>Vertibird Mechanic</title>
         <titleShort>Mechanic</titleShort>
@@ -252,7 +252,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Raul</li>
+            <li>FCP_Backstory_Enclave_Raul</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -262,8 +262,8 @@
     <!-- Mechanic Quincy -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Mechanic_Quincy</defName>
-        <identifier>FCP_Enclave_Mechanic_Quincy</identifier>
+        <defName>FCP_Backstory_Enclave_Mechanic_Quincy</defName>
+        <identifier>FCP_Backstory_Enclave_Mechanic_Quincy</identifier>
         <slot>Adulthood</slot>
         <title>Chief Mechanic</title>
         <titleShort>Mechanic</titleShort>
@@ -277,7 +277,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Mechanic_Quincy</li>
+            <li>FCP_Backstory_Enclave_Mechanic_Quincy</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -287,8 +287,8 @@
     <!-- Daisy Whitman -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Daisy_Whitman</defName>
-        <identifier>FCP_Enclave_Daisy_Whitman</identifier>
+        <defName>FCP_Backstory_Enclave_Daisy_Whitman</defName>
+        <identifier>FCP_Backstory_Enclave_Daisy_Whitman</identifier>
         <slot>Adulthood</slot>
         <title>Vertibird Pilot</title>
         <titleShort>Pilot</titleShort>
@@ -302,7 +302,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Daisy_Whitman</li>
+            <li>FCP_Backstory_Enclave_Daisy_Whitman</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -312,8 +312,8 @@
     <!-- Stiggs -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Stiggs</defName>
-        <identifier>FCP_Enclave_Stiggs</identifier>
+        <defName>FCP_Backstory_Enclave_Stiggs</defName>
+        <identifier>FCP_Backstory_Enclave_Stiggs</identifier>
         <slot>Adulthood</slot>
         <title>Robotics Repairman</title>
         <titleShort>Repairman</titleShort>
@@ -327,7 +327,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Stiggs</li>
+            <li>FCP_Backstory_Enclave_Stiggs</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -337,8 +337,8 @@
     <!-- Cookie -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Cookie</defName>
-        <identifier>FCP_Enclave_Cookie</identifier>
+        <defName>FCP_Backstory_Enclave_Cookie</defName>
+        <identifier>FCP_Backstory_Enclave_Cookie</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Cook</title>
         <titleShort>Cook</titleShort>
@@ -352,7 +352,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Cookie</li>
+            <li>FCP_Backstory_Enclave_Cookie</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -362,8 +362,8 @@
     <!-- Guard Snookie -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Guard_Snookie</defName>
-        <identifier>FCP_Enclave_Guard_Snookie</identifier>
+        <defName>FCP_Backstory_Enclave_Guard_Snookie</defName>
+        <identifier>FCP_Backstory_Enclave_Guard_Snookie</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Guard</title>
         <titleShort>Guard</titleShort>
@@ -377,7 +377,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Guard_Snookie</li>
+            <li>FCP_Backstory_Enclave_Guard_Snookie</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -387,8 +387,8 @@
     <!-- J. Smith -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_J_Smith</defName>
-        <identifier>FCP_Enclave_J_Smith</identifier>
+        <defName>FCP_Backstory_Enclave_J_Smith</defName>
+        <identifier>FCP_Backstory_Enclave_J_Smith</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Technician</title>
         <titleShort>Technician</titleShort>
@@ -402,7 +402,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_J_Smith</li>
+            <li>FCP_Backstory_Enclave_J_Smith</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -412,8 +412,8 @@
     <!-- Special Agent Frank Horrigan -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Frank_Horrigan</defName>
-        <identifier>FCP_Enclave_Frank_Horrigan</identifier>
+        <defName>FCP_Backstory_Enclave_Frank_Horrigan</defName>
+        <identifier>FCP_Backstory_Enclave_Frank_Horrigan</identifier>
         <slot>Adulthood</slot>
         <title>Special Agent</title>
         <titleShort>Agent</titleShort>
@@ -427,7 +427,7 @@
         <workDisables>Caring, Artistic</workDisables>
         <requiredWorkTags>Violent</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Frank_Horrigan</li>
+            <li>FCP_Backstory_Enclave_Frank_Horrigan</li>
         </spawnCategories>
         <bodyTypeFemale>Hulk</bodyTypeFemale>
         <bodyTypeMale>Hulk</bodyTypeMale>
@@ -437,8 +437,8 @@
     <!-- Sergeant Granite -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Sergeant_Granite</defName>
-        <identifier>FCP_Enclave_Sergeant_Granite</identifier>
+        <defName>FCP_Backstory_Enclave_Sergeant_Granite</defName>
+        <identifier>FCP_Backstory_Enclave_Sergeant_Granite</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Sergeant</title>
         <titleShort>Sergeant</titleShort>
@@ -452,7 +452,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Sergeant_Granite</li>
+            <li>FCP_Backstory_Enclave_Sergeant_Granite</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -462,8 +462,8 @@
     <!-- Sergeant Bracks -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Sergeant_Bracks</defName>
-        <identifier>FCP_Enclave_Sergeant_Bracks</identifier>
+        <defName>FCP_Backstory_Enclave_Sergeant_Bracks</defName>
+        <identifier>FCP_Backstory_Enclave_Sergeant_Bracks</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Sergeant</title>
         <titleShort>Sergeant</titleShort>
@@ -477,7 +477,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Sergeant_Bracks</li>
+            <li>FCP_Backstory_Enclave_Sergeant_Bracks</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -487,8 +487,8 @@
     <!-- Sergeant Dornan -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Sergeant_Dornan</defName>
-        <identifier>FCP_Enclave_Sergeant_Dornan</identifier>
+        <defName>FCP_Backstory_Enclave_Sergeant_Dornan</defName>
+        <identifier>FCP_Backstory_Enclave_Sergeant_Dornan</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Drill Sergeant</title>
         <titleShort>Drill Sergeant</titleShort>
@@ -502,7 +502,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Sergeant_Dornan</li>
+            <li>FCP_Backstory_Enclave_Sergeant_Dornan</li>
         </spawnCategories>
         <bodyTypeFemale>Hulk</bodyTypeFemale>
         <bodyTypeMale>Hulk</bodyTypeMale>
@@ -512,8 +512,8 @@
     <!-- Officer Orion Moreno -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Orion_Moreno</defName>
-        <identifier>FCP_Enclave_Orion_Moreno</identifier>
+        <defName>FCP_Backstory_Enclave_Orion_Moreno</defName>
+        <identifier>FCP_Backstory_Enclave_Orion_Moreno</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Officer</title>
         <titleShort>Officer</titleShort>
@@ -527,7 +527,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Orion_Moreno</li>
+            <li>FCP_Backstory_Enclave_Orion_Moreno</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -537,8 +537,8 @@
     <!-- Lieutenant Williams -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Lieutenant_Williams</defName>
-        <identifier>FCP_Enclave_Lieutenant_Williams</identifier>
+        <defName>FCP_Backstory_Enclave_Lieutenant_Williams</defName>
+        <identifier>FCP_Backstory_Enclave_Lieutenant_Williams</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Lieutenant</title>
         <titleShort>Lieutenant</titleShort>
@@ -552,7 +552,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Lieutenant_Williams</li>
+            <li>FCP_Backstory_Enclave_Lieutenant_Williams</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -562,8 +562,8 @@
     <!-- Lieutenant Brian Richter -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Lieutenant_Richter</defName>
-        <identifier>FCP_Enclave_Lieutenant_Richter</identifier>
+        <defName>FCP_Backstory_Enclave_Lieutenant_Richter</defName>
+        <identifier>FCP_Backstory_Enclave_Lieutenant_Richter</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Lieutenant</title>
         <titleShort>Lieutenant</titleShort>
@@ -577,7 +577,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Lieutenant_Richter</li>
+            <li>FCP_Backstory_Enclave_Lieutenant_Richter</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -587,8 +587,8 @@
     <!-- Captain A. Ron Myers -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Captain_Myers</defName>
-        <identifier>FCP_Enclave_Captain_Myers</identifier>
+        <defName>FCP_Backstory_Enclave_Captain_Myers</defName>
+        <identifier>FCP_Backstory_Enclave_Captain_Myers</identifier>
         <slot>Adulthood</slot>
         <title>Valdez Captain</title>
         <titleShort>Captain</titleShort>
@@ -602,7 +602,7 @@
         <workDisables>Artistic, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Captain_Myers</li>
+            <li>FCP_Backstory_Enclave_Captain_Myers</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -612,8 +612,8 @@
     <!-- Captain Kreger -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Captain_Kreger</defName>
-        <identifier>FCP_Enclave_Captain_Kreger</identifier>
+        <defName>FCP_Backstory_Enclave_Captain_Kreger</defName>
+        <identifier>FCP_Backstory_Enclave_Captain_Kreger</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Captain</title>
         <titleShort>Captain</titleShort>
@@ -627,7 +627,7 @@
         <workDisables>ManualDumb, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Captain_Kreger</li>
+            <li>FCP_Backstory_Enclave_Captain_Kreger</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -637,8 +637,8 @@
     <!-- Captain Pickard -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Captain_Pickard</defName>
-        <identifier>FCP_Enclave_Captain_Pickard</identifier>
+        <defName>FCP_Backstory_Enclave_Captain_Pickard</defName>
+        <identifier>FCP_Backstory_Enclave_Captain_Pickard</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Captain</title>
         <titleShort>Captain</titleShort>
@@ -652,7 +652,7 @@
         <workDisables>ManualDumb, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Captain_Pickard</li>
+            <li>FCP_Backstory_Enclave_Captain_Pickard</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -662,8 +662,8 @@
     <!-- Colonel Autumn Sr -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Colonel_Autumn_Senior</defName>
-        <identifier>FCP_Enclave_Colonel_Autumn_Senior</identifier>
+        <defName>FCP_Backstory_Enclave_Colonel_Autumn_Senior</defName>
+        <identifier>FCP_Backstory_Enclave_Colonel_Autumn_Senior</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Colonel</title>
         <titleShort>Colonel</titleShort>
@@ -677,7 +677,7 @@
         <workDisables>ManualDumb, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Colonel_Autumn_Sr</li>
+            <li>FCP_Backstory_Enclave_Colonel_Autumn_Sr</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -687,8 +687,8 @@
     <!-- Colonel Autumn -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Colonel_Autumn</defName>
-        <identifier>FCP_Enclave_Colonel_Autumn</identifier>
+        <defName>FCP_Backstory_Enclave_Colonel_Autumn</defName>
+        <identifier>FCP_Backstory_Enclave_Colonel_Autumn</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Colonel</title>
         <titleShort>Colonel</titleShort>
@@ -702,7 +702,7 @@
         <workDisables>ManualDumb, Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Colonel_Autumn</li>
+            <li>FCP_Backstory_Enclave_Colonel_Autumn</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -714,8 +714,8 @@
     <!-- Enclave Politician -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Politician</defName>
-        <identifier>FCP_Enclave_Politician</identifier>
+        <defName>FCP_Backstory_Enclave_Politician</defName>
+        <identifier>FCP_Backstory_Enclave_Politician</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Politician</title>
         <titleShort>Enclave Politician</titleShort>
@@ -729,8 +729,8 @@
         <workDisables>ManualDumb</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Leader</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Leader</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -740,8 +740,8 @@
     <!-- Enclave Foot Soldier -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Foot_Soldier</defName>
-        <identifier>FCP_Enclave_Foot_Soldier</identifier>
+        <defName>FCP_Backstory_Enclave_Foot_Soldier</defName>
+        <identifier>FCP_Backstory_Enclave_Foot_Soldier</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Foot Soldier</title>
         <titleShort>Enclave Foot Soldier</titleShort>
@@ -755,8 +755,8 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Trooper</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Trooper</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -766,8 +766,8 @@
     <!-- Indentured Labourer -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Indentured_Labourer</defName>
-        <identifier>FCP_Enclave_Indentured_Labourer</identifier>
+        <defName>FCP_Backstory_Enclave_Indentured_Labourer</defName>
+        <identifier>FCP_Backstory_Enclave_Indentured_Labourer</identifier>
         <slot>Adulthood</slot>
         <title>Indentured Labourer</title>
         <titleShort>Indentured Labourer</titleShort>
@@ -780,8 +780,8 @@
         <workDisables>Artistic, Caring, Intellectual</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Worker</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Worker</li>
         </spawnCategories>
         <bodyTypeGlobal>Thin</bodyTypeGlobal>
         <bodyTypeFemale>Thin</bodyTypeFemale>
@@ -792,8 +792,8 @@
     <!-- Enclave Bureaucrat -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Bureaucrat</defName>
-        <identifier>FCP_Enclave_Bureaucrat</identifier>
+        <defName>FCP_Backstory_Enclave_Bureaucrat</defName>
+        <identifier>FCP_Backstory_Enclave_Bureaucrat</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Bureaucrat</title>
         <titleShort>Enclave Bureaucrat</titleShort>
@@ -807,7 +807,7 @@
         <workDisables>Artistic, Caring, Intellectual</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
+            <li>FCP_Backstory_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -817,8 +817,8 @@
     <!-- Secret Service Agent -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Secret_Service_Agent</defName>
-        <identifier>FCP_Enclave_Secret_Service_Agent</identifier>
+        <defName>FCP_Backstory_Enclave_Secret_Service_Agent</defName>
+        <identifier>FCP_Backstory_Enclave_Secret_Service_Agent</identifier>
         <slot>Adulthood</slot>
         <title>Secret Service Agent</title>
         <titleShort>Secret Service Agent</titleShort>
@@ -832,8 +832,8 @@
         <workDisables>Social, Cleaning</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Secret_Service</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Secret_Service</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -843,8 +843,8 @@
     <!-- Enclave Biologist -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Biologist</defName>
-        <identifier>FCP_Enclave_Biologist</identifier>
+        <defName>FCP_Backstory_Enclave_Biologist</defName>
+        <identifier>FCP_Backstory_Enclave_Biologist</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Biologist</title>
         <titleShort>Enclave Biologist</titleShort>
@@ -857,8 +857,8 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Scientist</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Scientist</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -868,8 +868,8 @@
     <!-- Enclave Propagandist -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Propagandist</defName>
-        <identifier>FCP_Enclave_Propagandist</identifier>
+        <defName>FCP_Backstory_Enclave_Propagandist</defName>
+        <identifier>FCP_Backstory_Enclave_Propagandist</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Propagandist</title>
         <titleShort>Enclave Propagandist</titleShort>
@@ -882,7 +882,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
+            <li>FCP_Backstory_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Female</bodyTypeMale>
@@ -892,8 +892,8 @@
     <!-- Indentured Farmer -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Indentured_Farmer</defName>
-        <identifier>FCP_Enclave_Indentured_Farmer</identifier>
+        <defName>FCP_Backstory_Enclave_Indentured_Farmer</defName>
+        <identifier>FCP_Backstory_Enclave_Indentured_Farmer</identifier>
         <slot>Adulthood</slot>
         <title>Indentured Farmer</title>
         <titleShort>Indentured Farmer</titleShort>
@@ -907,8 +907,8 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Worker</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Worker</li>
         </spawnCategories>
         <bodyTypeGlobal>Thin</bodyTypeGlobal>
         <bodyTypeFemale>Thin</bodyTypeFemale>
@@ -919,8 +919,8 @@
     <!-- Indentured Servant -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Indentured Servant</defName>
-        <identifier>FCP_Enclave_Indentured Servant</identifier>
+        <defName>FCP_Backstory_Enclave_Indentured Servant</defName>
+        <identifier>FCP_Backstory_Enclave_Indentured Servant</identifier>
         <slot>Adulthood</slot>
         <title>Indentured Servant</title>
         <titleShort>Indentured Servant</titleShort>
@@ -933,8 +933,8 @@
         <workDisables>Crafting</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Worker</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Worker</li>
         </spawnCategories>
         <bodyTypeGlobal>Thin</bodyTypeGlobal>
         <bodyTypeFemale>Thin</bodyTypeFemale>
@@ -945,8 +945,8 @@
     <!-- Enclave Zoologist -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Zoologist</defName>
-        <identifier>FCP_Enclave_Zoologist</identifier>
+        <defName>FCP_Backstory_Enclave_Zoologist</defName>
+        <identifier>FCP_Backstory_Enclave_Zoologist</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Zoologist</title>
         <titleShort>Enclave Zoologist</titleShort>
@@ -961,8 +961,8 @@
         <workDisables>Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Scientist</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Scientist</li>
         </spawnCategories>
         <bodyTypeGlobal>Thin</bodyTypeGlobal>
         <bodyTypeFemale>Thin</bodyTypeFemale>
@@ -973,8 +973,8 @@
     <!-- Enclave Tesla Soldier -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Tesla Soldier</defName>
-        <identifier>FCP_Enclave_Tesla Soldier</identifier>
+        <defName>FCP_Backstory_Enclave_Tesla Soldier</defName>
+        <identifier>FCP_Backstory_Enclave_Tesla Soldier</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Tesla Soldier</title>
         <titleShort>Enclave Tesla Soldier</titleShort>
@@ -987,9 +987,9 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Trooper</li>
-            <li>FCP_Enclave_Tesla_Trooper</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Trooper</li>
+            <li>FCP_Backstory_Enclave_Tesla_Trooper</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -999,8 +999,8 @@
     <!-- Enclave Hellfire Trooper -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Hellfire_Trooper</defName>
-        <identifier>FCP_Enclave_Hellfire_Trooper</identifier>
+        <defName>FCP_Backstory_Enclave_Hellfire_Trooper</defName>
+        <identifier>FCP_Backstory_Enclave_Hellfire_Trooper</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Hellfire Trooper</title>
         <titleShort>Enclave Hellfire Trooper</titleShort>
@@ -1014,9 +1014,9 @@
         <workDisables>Firefighting</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Trooper</li>
-            <li>FCP_Enclave_Hellfire_Trooper</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Trooper</li>
+            <li>FCP_Backstory_Enclave_Hellfire_Trooper</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -1026,8 +1026,8 @@
     <!-- Enclave Physician -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Physician</defName>
-        <identifier>FCP_Enclave_Physician</identifier>
+        <defName>FCP_Backstory_Enclave_Physician</defName>
+        <identifier>FCP_Backstory_Enclave_Physician</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Physician</title>
         <titleShort>Enclave Physician</titleShort>
@@ -1041,8 +1041,8 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Scientist</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Scientist</li>
         </spawnCategories>
         <bodyTypeGlobal>Thin</bodyTypeGlobal>
         <bodyTypeFemale>Thin</bodyTypeFemale>
@@ -1053,8 +1053,8 @@
     <!-- Enclave Warden -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Warden</defName>
-        <identifier>FCP_Enclave_Warden</identifier>
+        <defName>FCP_Backstory_Enclave_Warden</defName>
+        <identifier>FCP_Backstory_Enclave_Warden</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Warden</title>
         <titleShort>Enclave Warden</titleShort>
@@ -1068,8 +1068,8 @@
         <workDisables>Caring</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Trooper</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Trooper</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -1079,8 +1079,8 @@
     <!-- Enclave Officer -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Officer</defName>
-        <identifier>FCP_Enclave_Officer</identifier>
+        <defName>FCP_Backstory_Enclave_Officer</defName>
+        <identifier>FCP_Backstory_Enclave_Officer</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Officer</title>
         <titleShort>Enclave Officer</titleShort>
@@ -1095,8 +1095,8 @@
         <workDisables>ManualDumb, Cooking, Animals</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Leader</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Leader</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -1106,8 +1106,8 @@
     <!-- Enclave Arsenal Specialist -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Arsenal Specialist</defName>
-        <identifier>FCP_Enclave_Arsenal_Specialist</identifier>
+        <defName>FCP_Backstory_Enclave_Arsenal Specialist</defName>
+        <identifier>FCP_Backstory_Enclave_Arsenal_Specialist</identifier>
         <slot>Adulthood</slot>
         <title>Enclave Arsenal Specialist</title>
         <titleShort>Enclave Arsenal Specialist</titleShort>
@@ -1122,9 +1122,9 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave</li>
-            <li>FCP_Enclave_Scientist</li>
-            <li>FCP_Enclave_Trooper</li>
+            <li>FCP_Backstory_Enclave</li>
+            <li>FCP_Backstory_Enclave_Scientist</li>
+            <li>FCP_Backstory_Enclave_Trooper</li>
         </spawnCategories>
         <bodyTypeFemale>Female</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -1136,8 +1136,8 @@
     <!-- Conscripted Adjutant -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Conscripted_Adjutant</defName>
-        <identifier>FCP_Enclave_Conscripted_Adjutant</identifier>
+        <defName>FCP_Backstory_Enclave_Conscripted_Adjutant</defName>
+        <identifier>FCP_Backstory_Enclave_Conscripted_Adjutant</identifier>
         <slot>Childhood</slot>
         <title>Conscripted Adjutant</title>
         <titleShort>Conscripted Adjutant</titleShort>
@@ -1151,7 +1151,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1159,8 +1159,8 @@
     <!-- Lab Assistant -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Lab_Assistant</defName>
-        <identifier>FCP_Enclave_Lab_Assistant</identifier>
+        <defName>FCP_Backstory_Enclave_Lab_Assistant</defName>
+        <identifier>FCP_Backstory_Enclave_Lab_Assistant</identifier>
         <slot>Childhood</slot>
         <title>Lab Assistant</title>
         <titleShort>Lab Assistant</titleShort>
@@ -1172,7 +1172,7 @@
         <workDisables>Mining</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1180,8 +1180,8 @@
     <!-- Kidnapped Servant -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Kidnapped_Servant</defName>
-        <identifier>FCP_Enclave_Kidnapped_Servant</identifier>
+        <defName>FCP_Backstory_Enclave_Kidnapped_Servant</defName>
+        <identifier>FCP_Backstory_Enclave_Kidnapped_Servant</identifier>
         <slot>Childhood</slot>
         <title>Kidnapped Servant</title>
         <titleShort>Kidnapped Servant</titleShort>
@@ -1194,7 +1194,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1202,8 +1202,8 @@
     <!-- Entitled Scion -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Entitled_Scion</defName>
-        <identifier>FCP_Enclave_Entitled_Scion</identifier>
+        <defName>FCP_Backstory_Enclave_Entitled_Scion</defName>
+        <identifier>FCP_Backstory_Enclave_Entitled_Scion</identifier>
         <slot>Childhood</slot>
         <title>Entitled Scion</title>
         <titleShort>Entitled Scion</titleShort>
@@ -1216,7 +1216,7 @@
         <workDisables>ManualDumb, Cooking</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1224,8 +1224,8 @@
     <!-- Levied Recruit -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Levied_Recruit</defName>
-        <identifier>FCP_Enclave_Levied_Recruit</identifier>
+        <defName>FCP_Backstory_Enclave_Levied_Recruit</defName>
+        <identifier>FCP_Backstory_Enclave_Levied_Recruit</identifier>
         <slot>Childhood</slot>
         <title>Levied Recruit</title>
         <titleShort>Levied Recruit</titleShort>
@@ -1238,7 +1238,7 @@
         <workDisables>Intellectual, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1246,8 +1246,8 @@
     <!-- Junior Civil Servant -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Junior_Civil_Servant</defName>
-        <identifier>FCP_Enclave_Junior_Civil_Servant</identifier>
+        <defName>FCP_Backstory_Enclave_Junior_Civil_Servant</defName>
+        <identifier>FCP_Backstory_Enclave_Junior_Civil_Servant</identifier>
         <slot>Childhood</slot>
         <title>Junior Civil Servant</title>
         <titleShort>Junior Civil Servant</titleShort>
@@ -1261,7 +1261,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1269,8 +1269,8 @@
     <!-- Peacekeeper in Training -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Peacekeeper_in_Training</defName>
-        <identifier>FCP_Enclave_Peacekeeper_in_Training</identifier>
+        <defName>FCP_Backstory_Enclave_Peacekeeper_in_Training</defName>
+        <identifier>FCP_Backstory_Enclave_Peacekeeper_in_Training</identifier>
         <slot>Childhood</slot>
         <title>Peacekeeper in Training</title>
         <titleShort>Peacekeeper in Training</titleShort>
@@ -1283,7 +1283,7 @@
         <workDisables>PlantWork</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1291,8 +1291,8 @@
     <!-- Engineer Trainee -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Engineer_Trainee</defName>
-        <identifier>FCP_Enclave_Engineer_Trainee</identifier>
+        <defName>FCP_Backstory_Enclave_Engineer_Trainee</defName>
+        <identifier>FCP_Backstory_Enclave_Engineer_Trainee</identifier>
         <slot>Childhood</slot>
         <title>Engineer Trainee</title>
         <titleShort>Engineer Trainee</titleShort>
@@ -1305,7 +1305,7 @@
         <workDisables>Cleaning</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
@@ -1313,8 +1313,8 @@
     <!-- Compassionate Child -->
 
     <BackstoryDef>
-        <defName>FCP_Enclave_Compassionate_Child</defName>
-        <identifier>FCP_Enclave_Compassionate_Child</identifier>
+        <defName>FCP_Backstory_Enclave_Compassionate_Child</defName>
+        <identifier>FCP_Backstory_Enclave_Compassionate_Child</identifier>
         <slot>Childhood</slot>
         <title>Compassionate Child</title>
         <titleShort>Compassionate Child</titleShort>
@@ -1328,7 +1328,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Enclave_Child</li>
+            <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
     </BackstoryDef>
