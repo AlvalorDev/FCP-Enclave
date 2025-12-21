@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Enclave Research Projects __________-->
+
+    <!-- Enclave Basic Equipment Research -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Enclave_Basic_Equipment</defName>
+        <label>Enclave basic equipment</label>
+        <description>Study captured Enclave equipment to understand their manufacturing techniques and replicate basic uniforms and equipment used by Enclave personnel.</description>
+        <baseCost>1200</baseCost>
+        <techLevel>Industrial</techLevel>
+        <prerequisites>
+            <li>ComplexClothing</li>
+        </prerequisites>
+        <requiredResearchBuilding>SimpleResearchBench</requiredResearchBuilding>
+        <requiredResearchFacilities>
+            <li>MultiAnalyzer</li>
+        </requiredResearchFacilities>
+        <researchViewX>7.00</researchViewX>
+        <researchViewY>1.50</researchViewY>
+    </ResearchProjectDef>
+
+    <!-- Enclave Advanced Equipment Research -->
+
+    <ResearchProjectDef>
+        <defName>FCP_Research_Enclave_Advanced_Equipment</defName>
+        <label>Enclave advanced equipment</label>
+        <description>Advanced study of Enclave technology allows for the production of their sophisticated scientific equipment and combat armor with integrated systems.</description>
+        <baseCost>2400</baseCost>
+        <techLevel>Industrial</techLevel>
+        <prerequisites>
+            <li>FCP_Research_Enclave_Basic_Equipment</li>
+            <li>PoweredArmor</li>
+        </prerequisites>
+        <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+        <requiredResearchFacilities>
+            <li>MultiAnalyzer</li>
+        </requiredResearchFacilities>
+        <researchViewX>8.50</researchViewX>
+        <researchViewY>1.50</researchViewY>
+    </ResearchProjectDef>
+
+</Defs>
