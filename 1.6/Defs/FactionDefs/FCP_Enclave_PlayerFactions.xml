@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Player Factions __________-->
+
+    <!-- Enclave Player Faction -->
+
+    <FactionDef ParentName="PlayerFactionBase">
+        <defName>FCP_Faction_Enclave_Player</defName>
+        <label>The Enclave</label>
+        <description>You are operatives of the Enclave, the shadow government that considers itself the rightful heir to the United States of America. Armed with advanced pre-war technology and an unwavering belief in your genetic and technological superiority, you seek to restore America to its former glory - by any means necessary. The wasteland is filled with mutants and degenerates who have no place in the new America you will build.</description>
+        <isPlayer>true</isPlayer>
+        <techLevel>Industrial</techLevel>
+        <pawnSingular>Agent</pawnSingular>
+        <pawnsPlural>Agents</pawnsPlural>
+        <leaderTitle>Colonel</leaderTitle>
+        <factionIconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</factionIconPath>
+        <colorSpectrum>
+            <li>(0.2, 0.2, 0.2)</li>
+        </colorSpectrum>
+        <allowedCultures>
+            <li>FCP_Culture_Enclave</li>
+        </allowedCultures>
+        <backstoryFilters>
+            <li>
+                <categories>
+                    <li>FCP_Backstory_Enclave</li>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categories>
+            </li>
+        </backstoryFilters>
+    </FactionDef>
+
+</Defs>

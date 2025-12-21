@@ -29,7 +29,6 @@
         <missionsDescKey>FCP_Enclave_Missions_Desc</missionsDescKey>
         <missionsButtonIconTexPath>Things/UI/Enlisted/FCP_Enclave_Missions</missionsButtonIconTexPath>
         <missionsBackgroundMenuTexPath>Things/UI/Enlisted/FCP_Enclave_Missions</missionsBackgroundMenuTexPath>
-        <missionsMenuAmbientSoundDef>FCP_RitualSustainer_ILoveYouCalifornia</missionsMenuAmbientSoundDef>
         <missionsMenuDescriptionKey>FCP_Enclave_Menu_Missions_Desc</missionsMenuDescriptionKey>
         <missionsMenuSelectQuestKey>FCP_Enclave_Menu_Missions_Select_Quest</missionsMenuSelectQuestKey>
         <missionsMenuStartQuestKey>FCP_Enclave_Menu_Missions_Start_Quest</missionsMenuStartQuestKey>
@@ -42,7 +41,7 @@
         <salaryDef>FCP_Currency_Enclave_Platinum_Bullion</salaryDef>
         <salaryLabelKey>FCP_Enclave_Salary_Label</salaryLabelKey>
         <salaryDescKey>FCP_Enclave_Salary_Desc</salaryDescKey>
-        <salaryButtonIconTexPath>Things/Items/Currencies/FCP_Enclave_Currency/FCP_Enclave_Bullion_a</salaryButtonIconTexPath>
+        <salaryButtonIconTexPath>Things/Items/Currencies/FCP_Enclave_Currency/FCP_Enclave_Bullion</salaryButtonIconTexPath>
         <salaryRange>500~700</salaryRange>
         <salaryPeriodDays>14</salaryPeriodDays>
 

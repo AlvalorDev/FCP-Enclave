@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Enclave Scenarios __________-->
+
+    <ScenarioDef>
+        <defName>FCP_Scenario_Enclave</defName>
+        <label>The Enclave</label>
+        <description>You are operatives of the Enclave, the shadow government of pre-war America. Armed with advanced technology and an unwavering belief in genetic superiority, you've been tasked with establishing a new outpost to further the Enclave's vision of a pure America. The wasteland is filled with mutants and degenerates - it is your duty to cleanse it.</description>
+        <scenario>
+            <summary>Enclave operatives establishing a new outpost with advanced technology.</summary>
+            <playerFaction>
+                <def>PlayerFaction</def>
+                <factionDef>FCP_Faction_Enclave_Player</factionDef>
+            </playerFaction>
+            <surfaceLayer>
+                <def>SurfaceLayerFixed</def>
+                <tag>Surface</tag>
+                <layer>Surface</layer>
+                <settingsDef>Surface</settingsDef>
+                <hide>true</hide>
+            </surfaceLayer>
+            <parts>
+                
+                <!-- Basic Configuration -->
+                <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+                    <def>ConfigPage_ConfigureStartingPawns</def>
+                    <pawnCount>3</pawnCount>
+                    <pawnChoiceCount>8</pawnChoiceCount>
+                </li>
+                
+                <!-- Landing -->
+                <li Class="ScenPart_PlayerPawnsArriveMethod">
+                    <def>PlayerPawnsArriveMethod</def>
+                    <method>DropPods</method>
+                </li>
+                
+                <!-- Starting Items -->
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>Silver</thingDef>
+                    <count>800</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>MealSurvivalPack</thingDef>
+                    <count>30</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>MedicineIndustrial</thingDef>
+                    <count>30</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>ComponentIndustrial</thingDef>
+                    <count>30</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>Steel</thingDef>
+                    <count>450</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>WoodLog</thingDef>
+                    <count>300</count>
+                </li>
+                
+                <!-- Advanced Enclave Equipment -->
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>Gun_AssaultRifle</thingDef>
+                    <count>2</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>FCP_Apparel_Enclave_Officer_Coat</thingDef>
+                    <count>1</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>FCP_Apparel_Enclave_Scientist_Outfit</thingDef>
+                    <count>1</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>FCP_Apparel_Enclave_Trooper_Uniform</thingDef>
+                    <count>1</count>
+                </li>
+                
+                <!-- Research -->
+                <li Class="ScenPart_StartingResearch">
+                    <def>StartingResearch</def>
+                    <project>Electricity</project>
+                </li>
+                
+                <li Class="ScenPart_StartingResearch">
+                    <def>StartingResearch</def>
+                    <project>Batteries</project>
+                </li>
+                
+                <!-- Game conditions -->
+                <li Class="ScenPart_GameStartDialog">
+                    <def>GameStartDialog</def>
+                    <text>Your Enclave team has landed in this remote area to establish a new outpost. With your advanced technology and pure American genetics, you must civilize this wasteland and eliminate the mutant threats that plague the region.\n\nRemember: America's future depends on genetic purity and technological superiority. The Enclave will rise again!</text>
+                    <closeSound>GameStartSting</closeSound>
+                </li>
+                
+            </parts>
+        </scenario>
+    </ScenarioDef>
+
+</Defs>
