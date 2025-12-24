@@ -7,7 +7,7 @@
 <MemeDef>
         <defName>FCP_Meme_EnclaveManifestDestiny</defName>
         <label>Enclave Manifest Destiny</label>
-        <description>PLACEHOLDER</description>
+        <description>The Enclave represents the continuation of the United States government, destined to reclaim and restore America. Only pure, untainted humans have the right to rebuild civilization. All others are aberrations to be removed or subjugated.</description>
         <iconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</iconPath>
         <groupDef>Misc</groupDef>
         <impact>2</impact>
@@ -37,5 +37,44 @@
                     <li><li>Scarification_Horrible</li></li>
         </requireOne>
     </MemeDef>
+
+    <!--__________ Precepts __________-->
+
+    <PreceptDef>
+        <defName>FCP_Precept_Role_EnclaveOfficer</defName>
+        <issue>IdeoRole</issue>
+        <label>Enclave Officer</label>
+        <description>An elite officer of the Enclave, trained in leadership and advanced combat tactics. They excel at research, combat, and maintaining discipline.</description>
+        <impact>High</impact>
+        <displayOrderInImpact>100</displayOrderInImpact>
+        <conflictingMemes>
+            <li>Individualist</li>
+        </conflictingMemes>
+        <statFactors>
+            <ResearchSpeed>1.25</ResearchSpeed>
+            <ShootingAccuracyPawn>1.15</ShootingAccuracyPawn>
+            <SocialImpact>1.20</SocialImpact>
+        </statFactors>
+        <associatedMemes>
+            <li>FCP_Meme_EnclaveManifestDestiny</li>
+        </associatedMemes>
+        <roleRequiredWorkTags>
+            <li>Intellectual</li>
+            <li>Social</li>
+        </roleRequiredWorkTags>
+        <grantedAbilities>
+            <li>LeaderSpeech</li>
+        </grantedAbilities>
+    </PreceptDef>
+
+    <IdeoRoleRequirementDef>
+        <defName>FCP_Role_Requirement_EnclaveOfficer</defName>
+        <label>Enclave Officer</label>
+        <description>Officers must wear regulation Enclave uniforms or power armor.</description>
+        <apparelRequired>
+            <li>FCP_Enclave_Apparel</li>
+            <li>FCP_Enclave_Power_Armor</li>
+        </apparelRequired>
+    </IdeoRoleRequirementDef>
 
 </Defs>

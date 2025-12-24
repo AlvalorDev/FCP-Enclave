@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+    <!--__________ Enclave Thoughts __________-->
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Research_Complete</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>5</durationDays>
+        <stackLimit>5</stackLimit>
+        <stackedEffectMultiplier>0.75</stackedEffectMultiplier>
+        <stages>
+            <li>
+                <label>advanced research completed</label>
+                <description>Another technological breakthrough for the Enclave. America's superiority is assured through science.</description>
+                <baseMoodEffect>3</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Rank_Earned</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>10</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>promoted in the Enclave</label>
+                <description>My dedication to America has been recognized. I am climbing the ranks toward the restoration of civilization.</description>
+                <baseMoodEffect>6</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Mutant_Eliminated</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>4</durationDays>
+        <stackLimit>5</stackLimit>
+        <stackedEffectMultiplier>0.8</stackedEffectMultiplier>
+        <stages>
+            <li>
+                <label>cleansed the wasteland</label>
+                <description>I eliminated another mutant aberration. The wasteland grows purer with each one removed.</description>
+                <baseMoodEffect>4</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Mission_Success</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>6</durationDays>
+        <stackLimit>3</stackLimit>
+        <stackedEffectMultiplier>0.85</stackedEffectMultiplier>
+        <stages>
+            <li>
+                <label>mission accomplished</label>
+                <description>Another successful operation for the Enclave. We are one step closer to restoring America.</description>
+                <baseMoodEffect>5</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Power_Armor_Equipped</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>3</durationDays>
+        <stackLimit>1</stackLimit>
+        <stages>
+            <li>
+                <label>wearing superior technology</label>
+                <description>This Enclave power armor represents the pinnacle of pre-war engineering. I am invincible.</description>
+                <baseMoodEffect>4</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>FCP_Thought_Enclave_Outsider_Contact</defName>
+        <thoughtClass>Thought_MemorySocial</thoughtClass>
+        <durationDays>2</durationDays>
+        <stackLimit>5</stackLimit>
+        <stackedEffectMultiplier>0.7</stackedEffectMultiplier>
+        <stages>
+            <li>
+                <label>dealt with wastelanders</label>
+                <description>I had to interact with genetically inferior wastelanders. Necessary, but distasteful.</description>
+                <baseMoodEffect>-2</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+
+</Defs>

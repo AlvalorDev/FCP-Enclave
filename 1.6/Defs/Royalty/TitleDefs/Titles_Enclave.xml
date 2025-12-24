@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Enclave Titles __________-->
+
+    <!-- Private -->
+
+    <RoyalTitleDef ParentName="FCP_Base_Empire_Titles">
+        <defName>FCP_Title_Enclave_Private</defName>
+        <label>Private</label>
+        <description>The lowest rank in the Enclave military structure. Privates are frontline soldiers, trained in the use of advanced weaponry and power armor. They carry out orders without question and serve as the backbone of Enclave forces.</description>
+        <tags>
+            <li>FCP_Title_Enclave</li>
+        </tags>
+        <seniority>0</seniority>
+        <favorCost>1</favorCost>
+        <changeHeirQuestPoints>1000</changeHeirQuestPoints>
+        <allowDignifiedMeditationFocus>False</allowDignifiedMeditationFocus>
+        <awardWorkerClass>RoyalTitleAwardWorker_Instant</awardWorkerClass>
+        <permitPointsAwarded>1</permitPointsAwarded>
+    </RoyalTitleDef>
+
+    <!-- Sergeant -->
+
+    <RoyalTitleDef ParentName="FCP_Base_Empire_Titles">
+        <defName>FCP_Title_Enclave_Sergeant</defName>
+        <label>Sergeant</label>
+        <description>Non-commissioned officers who lead small squads in the field. Sergeants are experienced soldiers who maintain discipline and coordinate tactical operations. They bridge the gap between officers and enlisted personnel.</description>
+        <tags>
+            <li>FCP_Title_Enclave</li>
+        </tags>
+        <seniority>300</seniority>
+        <favorCost>8</favorCost>
+        <changeHeirQuestPoints>1000</changeHeirQuestPoints>
+        <commonality>1</commonality>
+        <allowDignifiedMeditationFocus>True</allowDignifiedMeditationFocus>
+        <awardWorkerClass>RoyalTitleAwardWorker_Instant</awardWorkerClass>
+        <requiredApparel>
+            <li>
+                <bodyPartGroupsMatchAny>
+                    <li>Torso</li>
+                </bodyPartGroupsMatchAny>
+                <requiredTags>
+                    <li>FCP_Enclave_Power_Armor</li>
+                </requiredTags>
+            </li>
+        </requiredApparel>
+        <permitPointsAwarded>2</permitPointsAwarded>
+    </RoyalTitleDef>
+
+    <!-- Lieutenant -->
+
+    <RoyalTitleDef ParentName="FCP_Base_Empire_Titles">
+        <defName>FCP_Title_Enclave_Lieutenant</defName>
+        <label>Lieutenant</label>
+        <description>Junior officers responsible for platoon-level operations. Lieutenants coordinate multiple squads and make tactical decisions in the field. They are expected to demonstrate both combat prowess and leadership ability.</description>
+        <tags>
+            <li>FCP_Title_Enclave</li>
+        </tags>
+        <seniority>600</seniority>
+        <favorCost>10</favorCost>
+        <changeHeirQuestPoints>1500</changeHeirQuestPoints>
+        <commonality>1</commonality>
+        <allowDignifiedMeditationFocus>True</allowDignifiedMeditationFocus>
+        <awardWorkerClass>RoyalTitleAwardWorker_Instant</awardWorkerClass>
+        <requiredApparel>
+            <li>
+                <bodyPartGroupsMatchAny>
+                    <li>Torso</li>
+                </bodyPartGroupsMatchAny>
+                <requiredTags>
+                    <li>FCP_Enclave_Power_Armor</li>
+                </requiredTags>
+            </li>
+        </requiredApparel>
+        <permitPointsAwarded>3</permitPointsAwarded>
+    </RoyalTitleDef>
+
+    <!-- Captain -->
+
+    <RoyalTitleDef ParentName="FCP_Base_Empire_Titles">
+        <defName>FCP_Title_Enclave_Captain</defName>
+        <label>Captain</label>
+        <description>Senior field officers who command company-sized units. Captains are proven leaders with extensive combat experience. They handle complex operations and serve as the Enclave's primary tactical commanders.</description>
+        <tags>
+            <li>FCP_Title_Enclave</li>
+        </tags>
+        <seniority>900</seniority>
+        <favorCost>12</favorCost>
+        <changeHeirQuestPoints>2000</changeHeirQuestPoints>
+        <commonality>1</commonality>
+        <allowDignifiedMeditationFocus>True</allowDignifiedMeditationFocus>
+        <awardWorkerClass>RoyalTitleAwardWorker_Instant</awardWorkerClass>
+        <requiredApparel>
+            <li>
+                <bodyPartGroupsMatchAny>
+                    <li>Torso</li>
+                </bodyPartGroupsMatchAny>
+                <requiredTags>
+                    <li>FCP_Enclave_Apparel</li>
+                </requiredTags>
+            </li>
+        </requiredApparel>
+        <permitPointsAwarded>4</permitPointsAwarded>
+    </RoyalTitleDef>
+
+    <!-- Colonel -->
+
+    <RoyalTitleDef ParentName="FCP_Base_Empire_Titles">
+        <defName>FCP_Title_Enclave_Colonel</defName>
+        <label>Colonel</label>
+        <description>High-ranking officers who oversee strategic operations and base management. Colonels answer directly to the Enclave leadership and are responsible for executing the organization's broader objectives. They command respect and absolute authority.</description>
+        <tags>
+            <li>FCP_Title_Enclave</li>
+        </tags>
+        <seniority>1200</seniority>
+        <favorCost>14</favorCost>
+        <changeHeirQuestPoints>2500</changeHeirQuestPoints>
+        <commonality>1</commonality>
+        <allowDignifiedMeditationFocus>True</allowDignifiedMeditationFocus>
+        <awardWorkerClass>RoyalTitleAwardWorker_Instant</awardWorkerClass>
+        <requiredApparel>
+            <li>
+                <bodyPartGroupsMatchAny>
+                    <li>Torso</li>
+                </bodyPartGroupsMatchAny>
+                <requiredTags>
+                    <li>FCP_Enclave_Apparel</li>
+                </requiredTags>
+            </li>
+        </requiredApparel>
+        <permitPointsAwarded>5</permitPointsAwarded>
+    </RoyalTitleDef>
+
+</Defs>

@@ -75,8 +75,14 @@
                 <!-- Advanced Enclave Equipment -->
                 <li Class="ScenPart_StartingThing_Defined">
                     <def>StartingThing_Defined</def>
-                    <thingDef>Gun_AssaultRifle</thingDef>
+                    <thingDef MayRequire="Rick.FCP.EnergyWeapons">FCP_Gun_Plasma_Rifle</thingDef>
                     <count>2</count>
+                </li>
+                
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef MayRequire="Rick.FCP.EnergyWeapons">FCP_Gun_Plasma_Pistol</thingDef>
+                    <count>1</count>
                 </li>
                 
                 <li Class="ScenPart_StartingThing_Defined">
@@ -111,11 +117,6 @@
                 <li Class="ScenPart_StartingResearch">
                     <def>StartingResearch</def>
                     <project>FCP_Research_Enclave_Basic_Equipment</project>
-                </li>
-                
-                <li Class="ScenPart_StartingResearch">
-                    <def>StartingResearch</def>
-                    <project>FCP_Research_Enclave_Advanced_Equipment</project>
                 </li>
                 
                 <!-- Game conditions -->

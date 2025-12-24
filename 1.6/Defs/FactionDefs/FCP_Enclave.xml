@@ -45,6 +45,18 @@
         </forcedMemes>
         <requiredPreceptsOnly>true</requiredPreceptsOnly>
 
+        <!--__________ Royalty __________-->
+
+        <royalTitleTags>
+            <li>FCP_Title_Enclave</li>
+        </royalTitleTags>
+        <royalFavorLabel>authority</royalFavorLabel>
+        <royalTitleInheritanceWorkerClass>RoyalTitleInheritanceWorker</royalTitleInheritanceWorkerClass>
+        <royalTitleInheritanceRelations>
+            <li>Child</li>
+            <li>Spouse</li>
+        </royalTitleInheritanceRelations>
+
         <!--__________ Biotech __________-->
 
         <xenotypeSet>

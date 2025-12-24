@@ -709,8 +709,8 @@
             <li>FCP_Apparel_Enclave_Trooper_Cap</li>
         </apparelRequired>
         <weaponMoney>9999</weaponMoney>
-        <weaponTags>
-            <li>FCP_Enclave_Plasma_Rifle</li>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
         </weaponTags>
         <disallowedTraits>
             <li>Brawler</li>
@@ -750,8 +750,8 @@
             <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
         </apparelRequired>
         <weaponMoney>9999</weaponMoney>
-        <weaponTags>
-            <li>FCP_Enclave_Plasma_Rifle</li>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
         </weaponTags>
         <forcedTraits>
             <li>FCP_Trait_Power_Armor_Trained</li>
@@ -790,8 +790,8 @@
             <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
-        <weaponTags>
-            <li>FCP_Enclave_Plasma_Rifle</li>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
         </weaponTags>
         <forcedTraits>
             <li>FCP_Trait_Power_Armor_Trained</li>
@@ -830,8 +830,8 @@
             <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
-        <weaponTags>
-            <li>FCP_Enclave_Plasma_Rifle</li>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
         </weaponTags>
         <forcedTraits>
             <li>FCP_Trait_Power_Armor_Trained</li>
@@ -870,8 +870,8 @@
             <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
-        <weaponTags>
-            <li>FCP_Enclave_Plasma_Rifle</li>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
         </weaponTags>
         <forcedTraits>
             <li>FCP_Trait_Power_Armor_Trained</li>

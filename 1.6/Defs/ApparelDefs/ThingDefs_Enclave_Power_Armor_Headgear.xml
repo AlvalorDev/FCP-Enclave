@@ -49,6 +49,9 @@
             <layers>
                 <li>Overhead</li>
             </layers>
+            <tags>
+                <li>FCP_Enclave_Power_Armor</li>
+            </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
         </apparel>
@@ -101,6 +104,9 @@
             <layers>
                 <li>Overhead</li>
             </layers>
+            <tags>
+                <li>FCP_Enclave_Power_Armor</li>
+            </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
         </apparel>
@@ -153,6 +159,9 @@
             <layers>
                 <li>Overhead</li>
             </layers>
+            <tags>
+                <li>FCP_Enclave_Power_Armor</li>
+            </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
         </apparel>
@@ -205,6 +214,9 @@
             <layers>
                 <li>Overhead</li>
             </layers>
+            <tags>
+                <li>FCP_Enclave_Power_Armor</li>
+            </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
         </apparel>
@@ -257,6 +269,9 @@
             <layers>
                 <li>Overhead</li>
             </layers>
+            <tags>
+                <li>FCP_Enclave_Power_Armor</li>
+            </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
         </apparel>

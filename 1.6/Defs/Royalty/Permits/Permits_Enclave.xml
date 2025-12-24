@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <!--__________ Permits __________-->
+
+    <!-- Base Enclave Permit -->
+
+    <RoyalTitlePermitDef Name="FCP_Permit_Enclave_DropResourcesBase" Abstract="True">
+        <workerClass>RoyalTitlePermitWorker_DropResources</workerClass>
+        <faction>FCP_Faction_Enclave</faction>
+        <usableOnWorldMap>true</usableOnWorldMap>
+        <royalAid>
+            <targetingRange>39.9</targetingRange>
+        </royalAid>
+    </RoyalTitlePermitDef>
+
+    <!--_____ Enclave Permits _____-->
+
+    <!-- Supply Drop -->
+
+    <RoyalTitlePermitDef ParentName="FCP_Permit_Enclave_DropResourcesBase">
+        <defName>FCP_Permit_Enclave_Supply_Drop</defName>
+        <label>Enclave Supply Drop</label>
+        <faction>FCP_Faction_Enclave</faction>
+        <description>Call for an Enclave supply drop containing survival essentials.</description>
+        <permitPointCost>1</permitPointCost>
+        <cooldownDays>15</cooldownDays>
+        <minTitle>FCP_Title_Enclave_Private</minTitle>
+        <uiPosition>(0,0)</uiPosition>
+        <royalAid>
+            <itemsToDrop>
+                <MealSurvivalPack>20</MealSurvivalPack>
+                <MedicineIndustrial>10</MedicineIndustrial>
+            </itemsToDrop>
+            <favorCost>6</favorCost>
+        </royalAid>
+        <modExtensions>
+            <li Class="FCP.Factions.MaxTitlePermitExtension">
+                <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
+            </li>
+        </modExtensions>
+    </RoyalTitlePermitDef>
+
+    <!-- Weapons Drop -->
+
+    <RoyalTitlePermitDef ParentName="FCP_Permit_Enclave_DropResourcesBase">
+        <defName>FCP_Permit_Enclave_Weapons_Drop</defName>
+        <label>Enclave Weapons Drop</label>
+        <faction>FCP_Faction_Enclave</faction>
+        <description>Call for advanced Enclave weaponry including plasma weapons.</description>
+        <permitPointCost>2</permitPointCost>
+        <cooldownDays>30</cooldownDays>
+        <minTitle>FCP_Title_Enclave_Sergeant</minTitle>
+        <uiPosition>(0,1)</uiPosition>
+        <royalAid>
+            <itemsToDrop>
+                <FCP_Gun_Plasma_Rifle MayRequire="Rick.FCP.EnergyWeapons">2</FCP_Gun_Plasma_Rifle>
+                <Gun_ChargeRifle>1</Gun_ChargeRifle>
+            </itemsToDrop>
+            <favorCost>8</favorCost>
+        </royalAid>
+        <modExtensions>
+            <li Class="FCP.Factions.MaxTitlePermitExtension">
+                <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
+            </li>
+        </modExtensions>
+    </RoyalTitlePermitDef>
+
+    <!-- Technology Drop -->
+
+    <RoyalTitlePermitDef ParentName="FCP_Permit_Enclave_DropResourcesBase">
+        <defName>FCP_Permit_Enclave_Technology_Drop</defName>
+        <label>Enclave Technology Drop</label>
+        <faction>FCP_Faction_Enclave</faction>
+        <description>Call for advanced technology and components from Enclave stores.</description>
+        <permitPointCost>2</permitPointCost>
+        <cooldownDays>30</cooldownDays>
+        <minTitle>FCP_Title_Enclave_Lieutenant</minTitle>
+        <uiPosition>(0,2)</uiPosition>
+        <royalAid>
+            <itemsToDrop>
+                <ComponentIndustrial>30</ComponentIndustrial>
+                <ComponentSpacer>5</ComponentSpacer>
+                <Plasteel>50</Plasteel>
+            </itemsToDrop>
+            <favorCost>8</favorCost>
+        </royalAid>
+        <modExtensions>
+            <li Class="FCP.Factions.MaxTitlePermitExtension">
+                <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
+            </li>
+        </modExtensions>
+    </RoyalTitlePermitDef>
+
+    <!-- Power Armor Drop -->
+
+    <RoyalTitlePermitDef MayRequire="Rick.FCP.PowerArmor" ParentName="FCP_Permit_Enclave_DropResourcesBase">
+        <defName>FCP_Permit_Enclave_Power_Armor_Drop</defName>
+        <label>Enclave Power Armor Drop</label>
+        <faction>FCP_Faction_Enclave</faction>
+        <description>Call for Enclave power armor deployment.</description>
+        <permitPointCost>3</permitPointCost>
+        <cooldownDays>60</cooldownDays>
+        <minTitle>FCP_Title_Enclave_Captain</minTitle>
+        <uiPosition>(0,3)</uiPosition>
+        <royalAid>
+            <itemsToDrop>
+                <FCP_Apparel_Enclave_Advanced_Power_Armor MayRequire="Rick.FCP.PowerArmor">1</FCP_Apparel_Enclave_Advanced_Power_Armor>
+                <FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet MayRequire="Rick.FCP.PowerArmor">1</FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet>
+            </itemsToDrop>
+            <favorCost>12</favorCost>
+        </royalAid>
+        <modExtensions>
+            <li Class="FCP.Factions.MaxTitlePermitExtension">
+                <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
+            </li>
+        </modExtensions>
+    </RoyalTitlePermitDef>
+
+</Defs>
