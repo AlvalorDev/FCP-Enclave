@@ -427,7 +427,7 @@
             <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
         </recipeMaker>
         <graphicData>
-            <texPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</texPath>
+            <texPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
             <drawSize>0.90</drawSize>
