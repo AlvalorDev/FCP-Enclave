@@ -184,7 +184,9 @@
             </layers>
             <tags>
                 <li>FCP_Enclave_Apparel</li>
-            </tags>            <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>        </apparel>
+            </tags>
+            <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
+        </apparel>
         <tradeTags>
             <li>FCP_Trade_Tag_Enclave_Apparel</li>
         </tradeTags>
@@ -325,9 +327,6 @@
             </tags>
             <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
         </apparel>
-        <equippedStatOffsets>
-            <WorkSpeedGlobal>0.03</WorkSpeedGlobal>
-        </equippedStatOffsets>
         <tradeTags>
             <li>FCP_Trade_Tag_Enclave_Apparel</li>
         </tradeTags>
@@ -428,7 +427,7 @@
             <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
         </recipeMaker>
         <graphicData>
-            <texPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</texPath>
+            <texPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
             <drawSize>0.90</drawSize>
@@ -463,7 +462,7 @@
                 <li>Arms</li>
                 <li>Legs</li>
             </bodyPartGroups>
-            <wornGraphicPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</wornGraphicPath>
+            <wornGraphicPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</wornGraphicPath>
             <layers>
                 <li>Shell</li>
             </layers>
