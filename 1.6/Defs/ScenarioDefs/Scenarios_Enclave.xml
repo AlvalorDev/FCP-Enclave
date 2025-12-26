@@ -76,7 +76,7 @@
                 <li Class="ScenPart_StartingThing_Defined">
                     <def>StartingThing_Defined</def>
                     <thingDef MayRequire="Rick.FCP.EnergyWeapons">FCP_Gun_Plasma_Rifle</thingDef>
-                    <count>2</count>
+                    <count>6</count>
                 </li>
                 
                 <li Class="ScenPart_StartingThing_Defined">
@@ -101,6 +101,19 @@
                     <def>StartingThing_Defined</def>
                     <thingDef>FCP_Apparel_Enclave_Trooper_Uniform</thingDef>
                     <count>1</count>
+                </li>
+                
+                <!-- Combat Armor -->
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>FCP_Apparel_Enclave_Combat_Armor</thingDef>
+                    <count>3</count>
+                </li>
+
+                <li Class="ScenPart_StartingThing_Defined">
+                    <def>StartingThing_Defined</def>
+                    <thingDef>FCP_Apparel_Enclave_Combat_Armor_Helmet</thingDef>
+                    <count>3</count>
                 </li>
                 
                 <!-- Research -->

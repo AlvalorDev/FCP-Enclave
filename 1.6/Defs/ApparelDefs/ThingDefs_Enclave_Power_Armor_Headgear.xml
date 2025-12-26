@@ -21,7 +21,8 @@
     <ThingDef ParentName="FCP_Apparel_Power_Armor_Helmet_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet</defName>
         <label>Enclave Advanced Power Armor Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>An advanced helmet designed for Enclave soldiers, offering exceptional protection against ballistic, blunt, and heat damage. Equipped with integrated systems for toxic environment resistance.</description>
+        <generateCommonality>0.001</generateCommonality>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Power_Armor/Enclave_Power_Armor/FCP_Advanced_Power_Armor_Helmet</texPath>
@@ -54,7 +55,7 @@
                 <li>Overhead</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_Advanced_Power_Armor</li>
             </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
@@ -76,7 +77,8 @@
     <ThingDef ParentName="FCP_Apparel_Power_Armor_Helmet_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Advanced_Power_Armor_MkII_Helmet</defName>
         <label>Enclave Advanced Power Armor Mk II Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>The Mk II variant of the Advanced Power Armor Helmet, featuring enhanced durability and improved environmental resistance for hazardous conditions.</description>
+        <generateCommonality>0.001</generateCommonality>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Power_Armor/Enclave_Power_Armor/FCP_Advanced_Power_Armor_mkII_Helmet</texPath>
@@ -109,7 +111,7 @@
                 <li>Overhead</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_Advanced_Power_Armor_MkII</li>
             </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
@@ -131,7 +133,8 @@
     <ThingDef ParentName="FCP_Apparel_Power_Armor_Helmet_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_X02_Tesla_Power_Armor_Helmet</defName>
         <label>Enclave X02 Tesla Power Armor Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>A specialized helmet for the X02 Tesla Power Armor, designed to protect against energy-based attacks while maintaining high resistance to environmental hazards.</description>
+        <generateCommonality>0.001</generateCommonality>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Power_Armor/Enclave_Power_Armor/FCP_X02_Tesla_Power_Armor_Helmet</texPath>
@@ -164,7 +167,7 @@
                 <li>Overhead</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_X02_Tesla_Power_Armor</li>
             </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
@@ -186,7 +189,8 @@
     <ThingDef ParentName="FCP_Apparel_Power_Armor_Helmet_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_X02_Power_Armor_Helmet</defName>
         <label>Enclave X02 Power Armor Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>The standard helmet for the X02 Power Armor, providing balanced protection and advanced features for Enclave operatives in the field.</description>
+        <generateCommonality>0.001</generateCommonality>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Power_Armor/Enclave_Power_Armor/FCP_X02_Power_Armor_Helmet</texPath>
@@ -219,7 +223,7 @@
                 <li>Overhead</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_X02_Power_Armor</li>
             </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>
@@ -241,7 +245,8 @@
     <ThingDef ParentName="FCP_Apparel_Power_Armor_Helmet_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Hellfire_Power_Armor_Helmet</defName>
         <label>Enclave Hellfire Power Armor Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>A heavy-duty helmet for the Hellfire Power Armor, offering unparalleled protection and resistance to extreme environmental conditions.</description>
+        <generateCommonality>0.001</generateCommonality>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Power_Armor/Enclave_Power_Armor/FCP_Hellfire_Power_Armor_Helmet</texPath>
@@ -274,7 +279,7 @@
                 <li>Overhead</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_Hellfire_Power_Armor</li>
             </tags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
             <developmentalStageFilter>Adult</developmentalStageFilter>

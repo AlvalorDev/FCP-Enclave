@@ -10,7 +10,7 @@
     <CultureDef>
         <defName>FCP_Culture_Enclave</defName>
         <label>Enclave</label>
-        <description>Culture of those in the Enclave, a pre-war US shadow government faction.</description>
+        <description>The Enclave represents the remnants of the pre-war United States government, embodying a culture of technological superiority, strict hierarchy, and unwavering loyalty to their vision of a purified America. Members of the Enclave are deeply committed to their cause, often viewing themselves as the rightful inheritors of the Earth.</description>
         <pawnNameMaker>FCP_Retro_Namer_Male</pawnNameMaker>
         <pawnNameMakerFemale>FCP_Retro_Namer_Female</pawnNameMakerFemale>
         <ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoAstropolitan</ideoNameMaker>
@@ -67,9 +67,9 @@
         <defName>FCP_Style_Enclave</defName>
         <label>Enclave</label>
         <iconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</iconPath>
-        <!-- <soundOngoingRitual></soundOngoingRitual> -->
         <ritualVisualEffectDef>Rustic</ritualVisualEffectDef>
         <thingDefStyles>
+            <!-- Placeholder for Enclave-specific styles. Add detailed style definitions here. -->
         </thingDefStyles>
     </StyleCategoryDef>
 

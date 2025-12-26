@@ -9,7 +9,7 @@
     <ThingDef ParentName="HatBase">
         <defName>FCP_Apparel_Enclave_Officer_Cap</defName>
         <label>Enclave Officer Cap</label>
-        <description>PLACEHOLDER</description>
+        <description>A distinguished cap worn by Enclave officers, symbolizing authority and discipline. Made from high-quality materials, it offers moderate protection and a professional appearance.</description>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Headgear/Officers/FCP_Enclave_Officer_Cap</texPath>
@@ -41,7 +41,7 @@
     <ThingDef ParentName="HatBase">
         <defName>FCP_Apparel_Enclave_Scientist_Helmet</defName>
         <label>Enclave Scientist Helmet</label>
-        <description>PLACEHOLDER</description>
+        <description>An advanced helmet designed for Enclave scientists, equipped with protective visors and integrated sensors to assist in hazardous environments.</description>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Headgear/Scientists/FCP_Scientist_Helmet</texPath>
@@ -71,7 +71,7 @@
     <ThingDef ParentName="HatBase">
         <defName>FCP_Apparel_Enclave_Trooper_Cap</defName>
         <label>Enclave Trooper Cap</label>
-        <description>PLACEHOLDER</description>
+        <description>A practical cap issued to Enclave troopers, providing basic protection and shielding against the elements while maintaining a professional look.</description>
         <techLevel>Industrial</techLevel>
         <graphicData>
             <texPath>Things/Apparel/Enclave_Headgear/Troopers/FCP_Enclave_Trooper_Cap</texPath>

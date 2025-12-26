@@ -28,16 +28,15 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Cloth>120</Cloth>
-            <ComponentIndustrial>8</ComponentIndustrial>
-            <Plasteel>15</Plasteel>
+            <Cloth>180</Cloth>
+            <Synthread>40</Synthread>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>150</MaxHitPoints>
-            <WorkToMake>12000</WorkToMake>
+            <WorkToMake>28000</WorkToMake>
             <ArmorRating_Sharp>0.25</ArmorRating_Sharp>
             <ArmorRating_Blunt>0.15</ArmorRating_Blunt>
             <ArmorRating_Heat>0.30</ArmorRating_Heat>
@@ -98,15 +97,15 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Cloth>30</Cloth>
-            <ComponentIndustrial>2</ComponentIndustrial>
+            <Cloth>50</Cloth>
+            <Leather>30</Leather>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>80</MaxHitPoints>
-            <WorkToMake>4000</WorkToMake>
+            <WorkToMake>6000</WorkToMake>
             <Mass>0.8</Mass>
             <Insulation_Cold>2.0</Insulation_Cold>
             <Insulation_Heat>1.5</Insulation_Heat>
@@ -158,15 +157,15 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Cloth>20</Cloth>
-            <ComponentIndustrial>1</ComponentIndustrial>
+            <Cloth>25</Cloth>
+            <Synthread>10</Synthread>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>60</MaxHitPoints>
-            <WorkToMake>2000</WorkToMake>
+            <WorkToMake>3500</WorkToMake>
             <Mass>0.3</Mass>
             <Insulation_Cold>1.5</Insulation_Cold>
             <Insulation_Heat>1.0</Insulation_Heat>
@@ -221,16 +220,15 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Cloth>80</Cloth>
-            <ComponentIndustrial>4</ComponentIndustrial>
-            <Plasteel>5</Plasteel>
+            <Cloth>140</Cloth>
+            <Synthread>50</Synthread>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>180</MaxHitPoints>
-            <WorkToMake>8000</WorkToMake>
+            <WorkToMake>16000</WorkToMake>
             <ArmorRating_Sharp>0.15</ArmorRating_Sharp>
             <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
             <ArmorRating_Heat>0.10</ArmorRating_Heat>
@@ -291,15 +289,15 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Cloth>60</Cloth>
-            <ComponentIndustrial>3</ComponentIndustrial>
+            <Cloth>100</Cloth>
+            <Synthread>30</Synthread>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>140</MaxHitPoints>
-            <WorkToMake>5000</WorkToMake>
+            <WorkToMake>12000</WorkToMake>
             <ArmorRating_Sharp>0.08</ArmorRating_Sharp>
             <ArmorRating_Blunt>0.04</ArmorRating_Blunt>
             <Mass>1.5</Mass>
@@ -366,16 +364,16 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Steel>75</Steel>
-            <ComponentIndustrial>10</ComponentIndustrial>
-            <Plasteel>25</Plasteel>
+            <Steel>120</Steel>
+            <Uranium>15</Uranium>
+            <ComponentIndustrial>18</ComponentIndustrial>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>280</MaxHitPoints>
-            <WorkToMake>20000</WorkToMake>
+            <WorkToMake>42000</WorkToMake>
             <ArmorRating_Sharp>0.90</ArmorRating_Sharp>
             <ArmorRating_Blunt>0.40</ArmorRating_Blunt>
             <ArmorRating_Heat>0.50</ArmorRating_Heat>
@@ -437,16 +435,16 @@
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
-            <Steel>100</Steel>
-            <ComponentIndustrial>15</ComponentIndustrial>
-            <Plasteel>35</Plasteel>
+            <Steel>150</Steel>
+            <Uranium>25</Uranium>
+            <ComponentIndustrial>25</ComponentIndustrial>
         </costList>
         <thingCategories>
             <li>Apparel</li>
         </thingCategories>
         <statBases>
             <MaxHitPoints>350</MaxHitPoints>
-            <WorkToMake>30000</WorkToMake>
+            <WorkToMake>56000</WorkToMake>
             <ArmorRating_Sharp>1.05</ArmorRating_Sharp>
             <ArmorRating_Blunt>0.50</ArmorRating_Blunt>
             <ArmorRating_Heat>0.60</ArmorRating_Heat>

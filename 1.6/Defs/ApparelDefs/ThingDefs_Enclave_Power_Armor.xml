@@ -77,12 +77,12 @@
 		</comps>
     </ThingDef>
 
-<!-- Enclave Advanced Power Armor MkII -->
+    <!-- Enclave Advanced Power Armor MkII -->
 
     <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Advanced_Power_Armor_MkII</defName>
         <label>Enclave Advanced Power Armor MkII</label>
-        <description>A suit of advanced power armor developed by the Enclave. Offers exceptional protection against all forms of damage, enhanced mobility, and complete environmental sealing. Wearing this armor marks its user as a force to be reckoned with on the battlefield.</description>
+        <description>The MkII variant of the Enclave Advanced Power Armor, featuring improved environmental sealing and enhanced durability for prolonged combat scenarios.</description>
         <smeltable>false</smeltable>
         <thingSetMakerTags>
             <li>RewardStandardMidFreq</li>
@@ -131,7 +131,7 @@
                 <li>Shell</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_Advanced_Power_Armor_MkII</li>
             </tags>
             <defaultOutfitTags>
                 <li>Worker</li>
@@ -158,7 +158,7 @@
    <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_X02_Power_Armor</defName>
         <label>Enclave X-02 Power Armor</label>
-        <description>A suit of next-generation Enclave power armor, the X-02 offers formidable protection and advanced environmental sealing. While not as advanced as the APA, it is lighter and more intimidating than earlier models.</description>
+        <description>A next-generation Enclave power armor, the X-02 offers formidable protection and advanced environmental sealing. It is lighter and more intimidating than earlier models.</description>
         <smeltable>false</smeltable>
         <thingSetMakerTags>
             <li>RewardStandardMidFreq</li>
@@ -208,7 +208,7 @@
                 <li>Shell</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_X02_Power_Armor</li>
             </tags>
             <defaultOutfitTags>
                 <li>Worker</li>
@@ -285,7 +285,7 @@
                 <li>Shell</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_X02_Tesla_Power_Armor</li>
             </tags>
             <defaultOutfitTags>
                 <li>Worker</li>
@@ -362,7 +362,7 @@
                 <li>Shell</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Power_Armor</li>
+                <li>FCP_Enclave_Hellfire_Power_Armor</li>
             </tags>
             <defaultOutfitTags>
                 <li>Worker</li>

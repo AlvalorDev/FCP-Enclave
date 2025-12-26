@@ -690,7 +690,51 @@
 
     <!--___ Politicians ___-->
 
+    <!-- Enclave Politician -->
 
+
+
+    <!-- Enclave Officer -->
+
+    <PawnKindDef ParentName="FCP_EnclavekindBase">
+        <defName>FCP_Pawnkind_Enclave_Officer</defName>
+        <label>Enclave Officer</label>
+        <combatPower>110</combatPower>
+        <itemQuality>Normal</itemQuality>
+        <gearHealthRange>0.5~1.8</gearHealthRange>
+        <apparelMoney>9999</apparelMoney>
+        <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+        <apparelRequired>
+            <li>FCP_Apparel_Enclave_Trooper_Uniform</li>
+            <li>FCP_Apparel_Enclave_Officer_Coat</li>
+            <li>FCP_Apparel_Enclave_Officer_Cap</li>
+        </apparelRequired>
+        <weaponMoney>9999</weaponMoney>
+        <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
+            <li>FCP_Plasma_Weapon</li>
+        </weaponTags>
+        <disallowedTraits>
+            <li>Brawler</li>
+        </disallowedTraits>
+        <requiredWorkTags>
+            <li>Violent</li>
+        </requiredWorkTags>
+        <techHediffsMoney>0</techHediffsMoney>
+        <techHediffsTags>
+            <li>Poor</li>
+        </techHediffsTags>
+        <techHediffsChance>0</techHediffsChance>
+        <initialWillRange>1~3</initialWillRange>
+        <initialResistanceRange>15~24</initialResistanceRange>
+        <backstoryFiltersOverride>
+            <li>
+                <categoriesAdulthood>
+                    <li>FCP_Backstory_Enclave_Trooper</li>
+                </categoriesAdulthood>
+            </li>
+        </backstoryFiltersOverride>
+        <pawnGroupDevelopmentStage>Adult</pawnGroupDevelopmentStage>
+    </PawnKindDef>
 
     <!--___ Military ___-->
 
@@ -747,8 +791,11 @@
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
         <apparelRequired>
             <li>FCP_Apparel_Enclave_Trooper_Uniform</li>
-            <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
+            <li>FCP_Apparel_Enclave_Advanced_Power_Armor</li>
         </apparelRequired>
+        <apparelTags>
+            <li>FCP_Enclave_Advanced_Power_Armor</li>
+        </apparelTags>
         <weaponMoney>9999</weaponMoney>
         <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
             <li>FCP_Plasma_Weapon</li>
@@ -786,8 +833,11 @@
         <gearHealthRange>0.5~1.8</gearHealthRange>
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+        <apparelRequired>
+            <li>FCP_Apparel_Enclave_X02_Power_Armor</li>
+        </apparelRequired>
         <apparelTags>
-            <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
+            <li>FCP_Enclave_X02_Power_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
         <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
@@ -826,8 +876,11 @@
         <gearHealthRange>0.5~1.8</gearHealthRange>
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+        <apparelRequired>
+            <li>FCP_Apparel_Enclave_X02_Tesla_Power_Armor</li>
+        </apparelRequired>
         <apparelTags>
-            <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
+            <li>FCP_Enclave_X02_Tesla_Power_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
         <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
@@ -866,8 +919,11 @@
         <gearHealthRange>0.5~1.8</gearHealthRange>
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+        <apparelRequired>
+            <li>FCP_Apparel_Enclave_Hellfire_Power_Armor</li>
+        </apparelRequired>
         <apparelTags>
-            <li>FCP_Apparel_Enclave_Sturdy_Combat_Armor</li>
+            <li>FCP_Enclave_Hellfire_Power_Armor</li>
         </apparelTags>
         <weaponMoney>9999</weaponMoney>
         <weaponTags MayRequire="Rick.FCP.EnergyWeapons">
