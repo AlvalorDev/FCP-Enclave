@@ -98,4 +98,36 @@
         </apparel>
     </ThingDef>
 
+    <!-- Combat Armor Helmet -->
+
+    <ThingDef ParentName="HatBase">
+        <defName>FCP_Apparel_Enclave_Combat_Armor_Helmet</defName>
+        <label>Enclave Combat Armor Helmet</label>
+        <description>PLACEHOLDER</description>
+        <techLevel>Industrial</techLevel>
+        <graphicData>
+            <texPath>Things/Apparel/Enclave_Armor/Enclave_Combat_armor/FCP_Enclave_Combat_Armor_Helmet</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <smeltable>false</smeltable>
+        <statBases>
+            <WorkToMake>3000</WorkToMake>
+            <MaxHitPoints>80</MaxHitPoints>
+            <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
+            <ArmorRating_Blunt>0.2</ArmorRating_Blunt>
+            <Mass>0.8</Mass>
+            <Insulation_Heat>2</Insulation_Heat>
+            <EquipDelay>1.5</EquipDelay>
+        </statBases>
+        <apparel>
+            <bodyPartGroups>
+                <li>FullHead</li>
+            </bodyPartGroups>
+            <wornGraphicPath>Things/Apparel/Enclave_Armor/Enclave_Combat_armor/FCP_Enclave_Combat_Armor_Helmet</wornGraphicPath>
+            <layers>
+                <li>Overhead</li>
+            </layers>
+        </apparel>
+    </ThingDef>
+
 </Defs>
