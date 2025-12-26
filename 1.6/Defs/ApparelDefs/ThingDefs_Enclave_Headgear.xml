@@ -106,7 +106,7 @@
         <description>PLACEHOLDER</description>
         <techLevel>Industrial</techLevel>
         <graphicData>
-            <texPath>Things/Apparel/Enclave_Armor/Enclave_Combat_armor/FCP_Enclave_Combat_Armor_Helmet</texPath>
+            <texPath>Things/Apparel/Enclave_Armor/Enclave_Combat_Armor/FCP_Enclave_Combat_Helmet</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <smeltable>false</smeltable>
@@ -123,7 +123,7 @@
             <bodyPartGroups>
                 <li>FullHead</li>
             </bodyPartGroups>
-            <wornGraphicPath>Things/Apparel/Enclave_Armor/Enclave_Combat_armor/FCP_Enclave_Combat_Armor_Helmet</wornGraphicPath>
+            <wornGraphicPath>Things/Apparel/Enclave_Armor/Enclave_Combat_Armor/FCP_Enclave_Combat_Helmet</wornGraphicPath>
             <layers>
                 <li>Overhead</li>
             </layers>
