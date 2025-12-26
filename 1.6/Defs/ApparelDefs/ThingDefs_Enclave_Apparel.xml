@@ -98,7 +98,7 @@
         <techLevel>Industrial</techLevel>
         <costList>
             <Cloth>50</Cloth>
-            <Leather>30</Leather>
+            <Leather_Plain>30</Leather_Plain>
         </costList>
         <thingCategories>
             <li>Apparel</li>
