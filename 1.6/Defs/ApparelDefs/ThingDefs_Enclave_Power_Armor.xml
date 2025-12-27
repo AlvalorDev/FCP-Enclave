@@ -3,7 +3,7 @@
 
     <!-- Enclave Advanced Power Armor -->
 
-    <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
+    <ThingDef ParentName="FCP_Apparel_Power_Armor_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Advanced_Power_Armor</defName>
         <label>Enclave Advanced Power Armor</label>
         <description>A suit of advanced power armor developed by the Enclave. Offers exceptional protection against all forms of damage, enhanced mobility, and complete environmental sealing. Wearing this armor marks its user as a force to be reckoned with on the battlefield.</description>
@@ -16,9 +16,6 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
-        <thingCategories>
-            <li>ApparelArmor</li>
-        </thingCategories>
         <tickerType>Normal</tickerType>
         <statBases>
             <MaxHitPoints>280</MaxHitPoints>
@@ -85,7 +82,7 @@
 
     <!-- Enclave Advanced Power Armor MkII -->
 
-    <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
+    <ThingDef ParentName="FCP_Apparel_Power_Armor_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Advanced_Power_Armor_MkII</defName>
         <label>Enclave Advanced Power Armor MkII</label>
         <description>The MkII variant of the Enclave Advanced Power Armor, featuring improved environmental sealing and enhanced durability for prolonged combat scenarios.</description>
@@ -98,9 +95,6 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
-        <thingCategories>
-            <li>ApparelArmor</li>
-        </thingCategories>
         <tickerType>Normal</tickerType>
         <statBases>
             <MaxHitPoints>285</MaxHitPoints>
@@ -167,7 +161,7 @@
 
     <!-- Enclave X-02 Power Armor -->
 
-   <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
+   <ThingDef ParentName="FCP_Apparel_Power_Armor_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_X02_Power_Armor</defName>
         <label>Enclave X-02 Power Armor</label>
         <description>A next-generation Enclave power armor, the X-02 offers formidable protection and advanced environmental sealing. It is lighter and more intimidating than earlier models.</description>
@@ -180,9 +174,6 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
-        <thingCategories>
-            <li>ApparelArmor</li>
-        </thingCategories>
         <tickerType>Normal</tickerType>
         <statBases>
             <MaxHitPoints>290</MaxHitPoints>
@@ -250,7 +241,7 @@
 
     <!-- Enclave X-02 Tesla Power Armor -->
 
-    <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
+    <ThingDef ParentName="FCP_Apparel_Power_Armor_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_X02_Tesla_Power_Armor</defName>
         <label>Enclave X-02 Tesla Power Armor</label>
         <description>A rare variant of the X-02, the Tesla Power Armor is fitted with electromagnetic shielding and energy-dispersing coils. It offers superior protection against heat and electrical attacks, making its wearer a terrifying sight on the battlefield.</description>
@@ -263,9 +254,6 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
-        <thingCategories>
-            <li>ApparelArmor</li>
-        </thingCategories>
         <tickerType>Normal</tickerType>
         <statBases>
             <MaxHitPoints>295</MaxHitPoints>
@@ -333,7 +321,7 @@
 
     <!-- Enclave Hellfire Power Armor -->
 
-    <ThingDef ParentName="ApparelBase" MayRequire="Rick.FCP.PowerArmor">
+    <ThingDef ParentName="FCP_Apparel_Power_Armor_Base" MayRequire="Rick.FCP.PowerArmor">
         <defName>FCP_Apparel_Enclave_Hellfire_Power_Armor</defName>
         <label>Enclave Hellfire Power Armor</label>
         <description>The Hellfire Power Armor is an advanced Enclave suit designed for extreme environments and frontline assault. Its reinforced plating and advanced heat dispersal systems provide unmatched protection against fire and explosions, making its wearer a walking fortress in the most hazardous conditions.</description>
@@ -346,9 +334,6 @@
             <graphicClass>Graphic_Single</graphicClass>
             <drawSize>1</drawSize>
         </graphicData>
-        <thingCategories>
-            <li>ApparelArmor</li>
-        </thingCategories>
         <tickerType>Normal</tickerType>
         <statBases>
             <MaxHitPoints>300</MaxHitPoints>

@@ -790,8 +790,10 @@
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
         <apparelRequired>
+            <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
             <li>FCP_Apparel_Enclave_Trooper_Uniform</li>
             <li>FCP_Apparel_Enclave_Advanced_Power_Armor</li>
+            <li>FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet</li>
         </apparelRequired>
         <apparelTags>
             <li>FCP_Enclave_Advanced_Power_Armor</li>
@@ -834,7 +836,9 @@
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
         <apparelRequired>
+            <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
             <li>FCP_Apparel_Enclave_X02_Power_Armor</li>
+            <li>FCP_Apparel_Enclave_X02_Power_Armor_Helmet</li>
         </apparelRequired>
         <apparelTags>
             <li>FCP_Enclave_X02_Power_Armor</li>
@@ -877,7 +881,9 @@
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
         <apparelRequired>
+            <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
             <li>FCP_Apparel_Enclave_X02_Tesla_Power_Armor</li>
+            <li>FCP_Apparel_Enclave_X02_Tesla_Power_Armor_Helmet</li>
         </apparelRequired>
         <apparelTags>
             <li>FCP_Enclave_X02_Tesla_Power_Armor</li>
@@ -920,7 +926,9 @@
         <apparelMoney>9999</apparelMoney>
         <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
         <apparelRequired>
+            <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
             <li>FCP_Apparel_Enclave_Hellfire_Power_Armor</li>
+            <li>FCP_Apparel_Enclave_Hellfire_Power_Armor_Helmet</li>
         </apparelRequired>
         <apparelTags>
             <li>FCP_Enclave_Hellfire_Power_Armor</li>
