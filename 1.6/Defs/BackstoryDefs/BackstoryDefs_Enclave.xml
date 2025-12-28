@@ -1154,6 +1154,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1176,6 +1177,7 @@
         <workDisables>Mining</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1199,6 +1201,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1222,6 +1225,7 @@
         <workDisables>ManualDumb, Cooking</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1245,6 +1249,7 @@
         <workDisables>Intellectual, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1269,6 +1274,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1292,6 +1298,7 @@
         <workDisables>PlantWork</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1315,6 +1322,7 @@
         <workDisables>Cleaning</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
@@ -1339,6 +1347,7 @@
         <workDisables>None</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
+            <li>FCP_Enclave_Child</li>
             <li>FCP_Backstory_Enclave_Child</li>
         </spawnCategories>
         <possessions />
