@@ -23,6 +23,17 @@
 		<requiredWorkTags>
 			<li>Violent</li>
 		</requiredWorkTags>
+		<apparelDisallowTags>
+			<li>FCP_Power_Armor</li>
+			<li>FCP_Power_Armor_Midwest</li>
+			<li>FCP_Power_Armor_BoS</li>
+			<li>FCP_Power_Armor_NCR</li>
+			<li>FCP_Power_Armor_Legion</li>
+			<li>IndustrialBasic</li>
+			<li>IndustrialAdvanced</li>
+			<li>IndustrialMilitary</li>
+			<li>SpacerMilitary</li>
+		</apparelDisallowTags>
 		<backstoryFiltersOverride>
 			<li>
 				<categoriesChildhood>
@@ -47,6 +58,9 @@
         <initialResistanceRange>19~30</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_President_Richardson_Sr</li>
                 </categoriesAdulthood>
@@ -69,6 +83,9 @@
         <initialResistanceRange>17~28</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_President_Richardson_Jr</li>
                 </categoriesAdulthood>
@@ -91,6 +108,9 @@
         <initialResistanceRange>17~28</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Vice_President_Bird</li>
                 </categoriesAdulthood>
@@ -115,6 +135,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Arcade_Gannon_Sr</li>
                 </categoriesAdulthood>
@@ -139,6 +162,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Dr_Schreber</li>
                 </categoriesAdulthood>
@@ -163,6 +189,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Dr_Henry</li>
                 </categoriesAdulthood>
@@ -187,6 +216,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Dr_Charles_Curling</li>
                 </categoriesAdulthood>
@@ -211,6 +243,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Anna_Holt</li>
                 </categoriesAdulthood>
@@ -234,6 +269,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Stiggs</li>
                 </categoriesAdulthood>
@@ -259,6 +297,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Tom_Murray</li>
                 </categoriesAdulthood>
@@ -282,6 +323,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Raul</li>
                 </categoriesAdulthood>
@@ -305,6 +349,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Mechanic_Quincy</li>
                 </categoriesAdulthood>
@@ -328,6 +375,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Daisy_Whitman</li>
                 </categoriesAdulthood>
@@ -351,6 +401,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Cookie</li>
                 </categoriesAdulthood>
@@ -374,6 +427,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Guard_Snookie</li>
                 </categoriesAdulthood>
@@ -397,6 +453,9 @@
         <initialResistanceRange>13~22</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_J_Smith</li>
                 </categoriesAdulthood>
@@ -419,6 +478,9 @@
         <initialResistanceRange>30~50</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Frank_Horrigan</li>
                 </categoriesAdulthood>
@@ -442,6 +504,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Sergeant_Granite</li>
                 </categoriesAdulthood>
@@ -465,6 +530,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Sergeant_Bracks</li>
                 </categoriesAdulthood>
@@ -488,6 +556,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Sergeant_Dornan</li>
                 </categoriesAdulthood>
@@ -511,6 +582,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Orion_Moreno</li>
                 </categoriesAdulthood>
@@ -534,6 +608,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Lieutenant_Williams</li>
                 </categoriesAdulthood>
@@ -557,6 +634,9 @@
         <initialResistanceRange>15~25</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Lieutenant_Richter</li>
                 </categoriesAdulthood>
@@ -580,6 +660,9 @@
         <initialResistanceRange>16~26</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Captain_Myers</li>
                 </categoriesAdulthood>
@@ -603,6 +686,9 @@
         <initialResistanceRange>16~26</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Captain_Kreger</li>
                 </categoriesAdulthood>
@@ -626,6 +712,9 @@
         <initialResistanceRange>16~26</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Captain_Pickard</li>
                 </categoriesAdulthood>
@@ -649,6 +738,9 @@
         <initialResistanceRange>20~32</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Colonel_Autumn_Sr</li>
                 </categoriesAdulthood>
@@ -672,6 +764,9 @@
         <initialResistanceRange>20~32</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Colonel_Autumn</li>
                 </categoriesAdulthood>
@@ -728,6 +823,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Trooper</li>
                 </categoriesAdulthood>
@@ -771,6 +869,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Trooper</li>
                 </categoriesAdulthood>
@@ -817,6 +918,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Trooper</li>
                 </categoriesAdulthood>
@@ -862,6 +966,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Trooper</li>
                 </categoriesAdulthood>
@@ -907,6 +1014,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Tesla_Trooper</li>
                 </categoriesAdulthood>
@@ -952,6 +1062,9 @@
         <initialResistanceRange>15~24</initialResistanceRange>
         <backstoryFiltersOverride>
             <li>
+                <categoriesChildhood>
+                    <li>FCP_Backstory_Enclave_Child</li>
+                </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_Hellfire_Trooper</li>
                 </categoriesAdulthood>
