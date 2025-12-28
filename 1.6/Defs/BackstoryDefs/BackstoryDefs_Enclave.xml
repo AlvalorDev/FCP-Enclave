@@ -27,7 +27,7 @@
         <workDisables>ManualDumb</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Backstory_Enclave_President_Richardson_Sr</li>
+            <li>FCP_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -52,7 +52,7 @@
         <workDisables>ManualDumb</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Backstory_Enclave_President_Richardson_Jr</li>
+            <li>FCP_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -77,7 +77,7 @@
         <workDisables>ManualDumb</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Backstory_Enclave_Vice_President_Bird</li>
+            <li>FCP_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -102,7 +102,7 @@
         <workDisables>Violent, Artistic</workDisables>
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
-            <li>FCP_Backstory_Enclave_Arcade_Gannon_Sr</li>
+            <li>FCP_Enclave</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
