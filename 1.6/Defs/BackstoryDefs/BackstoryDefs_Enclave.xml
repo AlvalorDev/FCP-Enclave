@@ -17,6 +17,7 @@
         <slot>Adulthood</slot>
         <title>Enclave President</title>
         <titleShort>President</titleShort>
+        <shuffleable>true</shuffleable>
         <description>President Dick Richardson was the authoritative leader of the Enclave during its most ambitious and ruthless era. A man of unwavering conviction, Richardson believed it was his destiny to restore America to its former glory, no matter the cost. Under his rule, the Enclave pursued radical plans to "purify" the wasteland, showing little mercy to those deemed impure. Richardson's charisma, political cunning, and iron will made him both a visionary and a tyrant, feared and respected by all within the Enclave.</description>
         <skillGains>
             <Social>8</Social>
@@ -28,6 +29,7 @@
         <requiredWorkTags>None</requiredWorkTags>
         <spawnCategories>
             <li>FCP_Enclave</li>
+            <li>FCP_Backstory_Enclave_President_Richardson_Sr</li>
         </spawnCategories>
         <bodyTypeFemale>Male</bodyTypeFemale>
         <bodyTypeMale>Male</bodyTypeMale>
@@ -1139,6 +1141,7 @@
         <defName>FCP_Backstory_Enclave_Conscripted_Adjutant</defName>
         <identifier>FCP_Backstory_Enclave_Conscripted_Adjutant</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Conscripted Adjutant</title>
         <titleShort>Conscripted Adjutant</titleShort>
         <description>The Enclave never was a particularly numerous group and was, consequentially often short on staff. [PAWN_nameDef] grew up within the lower ranks of the Enclave and was conscripted into service at a young age. [PAWN_pronoun] worked as an adjutant for an Enclave officer. [PAWN_possessive] supervisor wasn’t a particularly friendly person, but [PAWN_nameDef] learned a lot about the day-to-day duties of a military officer and remembered these lessons well.</description>
@@ -1162,6 +1165,7 @@
         <defName>FCP_Backstory_Enclave_Lab_Assistant</defName>
         <identifier>FCP_Backstory_Enclave_Lab_Assistant</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Lab Assistant</title>
         <titleShort>Lab Assistant</titleShort>
         <description>[PAWN_nameDef] showed great promise while being educated within the Enclave and was subsequently made a lab assistant. There [PAWN_pronoun] learned much about many scientific fields such as chemistry, physics, and biology from some of the brightest, albeit not very ethical minds of the Wasteland.</description>
@@ -1183,6 +1187,7 @@
         <defName>FCP_Backstory_Enclave_Kidnapped_Servant</defName>
         <identifier>FCP_Backstory_Enclave_Kidnapped_Servant</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Kidnapped Servant</title>
         <titleShort>Kidnapped Servant</titleShort>
         <description>Every once in a while, the Enclave would scour the Wasteland in search of new “workers”. While the patrols preferred to abduct adults, they weren’t opposed to capturing children. [PAWN_nameDef] was one of those unfortunate kids. While [PAWN_pronoun] was generally looked down upon most other members of the Enclave, it was possible, although unlikely for [PAWN_objective] to rise up to higher ranks within the organisation.</description>
@@ -1205,6 +1210,7 @@
         <defName>FCP_Backstory_Enclave_Entitled_Scion</defName>
         <identifier>FCP_Backstory_Enclave_Entitled_Scion</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Entitled Scion</title>
         <titleShort>Entitled Scion</titleShort>
         <description>[PAWN_nameDef] was born into the highest echelons of Enclave society. [PAWN_pronoun] was used to underlings taking care of [PAWN_possessive] every need and whim, while [PAWN_pronoun] trained and studied for a career in the leading positions of the Enclave.</description>
@@ -1227,6 +1233,7 @@
         <defName>FCP_Backstory_Enclave_Levied_Recruit</defName>
         <identifier>FCP_Backstory_Enclave_Levied_Recruit</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Levied Recruit</title>
         <titleShort>Levied Recruit</titleShort>
         <description>The skills of the Enclave’s soldiers was the result of years of strenuous training under the supervision of remorseless drill sergeants. Due to a shortage of able recruits, [PAWN_nameDef] was levied into service as a child and spent most of [PAWN_possessive] youth in barracks and on training fields. This made [PAWN_objective] a great warrior indeed, but left little time for anything else, since the Enclave did not exactly promote creative thinking within the rank and file.</description>
@@ -1249,6 +1256,7 @@
         <defName>FCP_Backstory_Enclave_Junior_Civil_Servant</defName>
         <identifier>FCP_Backstory_Enclave_Junior_Civil_Servant</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Junior Civil Servant</title>
         <titleShort>Junior Civil Servant</titleShort>
         <description>After finishing basic education [PAWN_nameDef] was assigned to serve within the byzantine bureaucracy of the Enclave, which ensured the functionality of the organisation. The institution’s focus on ruthless efficiency made [PAWN_objective] cold and unkind.</description>
@@ -1272,6 +1280,7 @@
         <defName>FCP_Backstory_Enclave_Peacekeeper_in_Training</defName>
         <identifier>FCP_Backstory_Enclave_Peacekeeper_in_Training</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Peacekeeper in Training</title>
         <titleShort>Peacekeeper in Training</titleShort>
         <description>The highly stratified society of the Enclave demanded absolute obedience from its citizenry. As an especially loyal child [PAWN_nameDef] was accepted into the ranks of the Enclave Peacekeeping Force, where [PAWN_pronoun] quickly learned how to ensure peace and order, especially within the conscripted masses of forced labourers, usually by means of a cattle prod.</description>
@@ -1294,6 +1303,7 @@
         <defName>FCP_Backstory_Enclave_Engineer_Trainee</defName>
         <identifier>FCP_Backstory_Enclave_Engineer_Trainee</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Engineer Trainee</title>
         <titleShort>Engineer Trainee</titleShort>
         <description>The complex machinery the Enclave depended upon needed near constant supervision and maintenance. This meant that skilled engineers were always needed and children with a knack for machinery, such as [PAWN_nameDef] were put into training in their early youth.</description>
@@ -1316,6 +1326,7 @@
         <defName>FCP_Backstory_Enclave_Compassionate_Child</defName>
         <identifier>FCP_Backstory_Enclave_Compassionate_Child</identifier>
         <slot>Childhood</slot>
+        <shuffleable>true</shuffleable>
         <title>Compassionate Child</title>
         <titleShort>Compassionate Child</titleShort>
         <description>Unusual for a child raised in the Enclave, [PAWN_nameDef] showed compassion and mercy on other creatures, even those deemed lower by fellow Enclave members. These character traits made life within the organisation difficult for [PAWN_objective] and [PAWN_pronoun] distanced [PAWN_objective]self from most others.</description>
