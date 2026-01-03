@@ -115,7 +115,7 @@
                 </disallowedStrategies>
                 <options>
                     <FCP_Pawnkind_Enclave_Trooper>10</FCP_Pawnkind_Enclave_Trooper>
-                    <FCP_Pawnkind_Enclave_Orion_Moreno>2</FCP_Pawnkind_Enclave_Orion_Moreno>
+                    <FCP_Pawnkind_Enclave_Armored_Trooper>8</FCP_Pawnkind_Enclave_Armored_Trooper>
                     <FCP_Pawnkind_Enclave_President_Richardson_Sr>1</FCP_Pawnkind_Enclave_President_Richardson_Sr>
                 </options>
             </li>
@@ -146,7 +146,7 @@
                     <FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>10</FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>
                     <FCP_Pawnkind_Enclave_MKII_Tesla_Power_Armor_Trooper>5</FCP_Pawnkind_Enclave_MKII_Tesla_Power_Armor_Trooper>
                     <FCP_Pawnkind_Enclave_Hellfire_Power_Armor_Trooper>3</FCP_Pawnkind_Enclave_Hellfire_Power_Armor_Trooper>
-                    <FCP_Pawnkind_Enclave_Orion_Moreno>2</FCP_Pawnkind_Enclave_Orion_Moreno>
+                    <FCP_Pawnkind_Enclave_Armored_Trooper>2</FCP_Pawnkind_Enclave_Armored_Trooper>
                     <FCP_Pawnkind_Enclave_President_Richardson_Sr>1</FCP_Pawnkind_Enclave_President_Richardson_Sr>
                 </options>
             </li>
@@ -159,7 +159,7 @@
                     <FCP_Pawnkind_Enclave_Trooper>14</FCP_Pawnkind_Enclave_Trooper>
                     <FCP_Pawnkind_Enclave_Power_Armor_Trooper>10</FCP_Pawnkind_Enclave_Power_Armor_Trooper>
                     <FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>5</FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>
-                    <FCP_Pawnkind_Enclave_Orion_Moreno>2</FCP_Pawnkind_Enclave_Orion_Moreno>
+                    <FCP_Pawnkind_Enclave_Armored_Trooper>2</FCP_Pawnkind_Enclave_Armored_Trooper>
                     <FCP_Pawnkind_Enclave_President_Richardson_Sr>1</FCP_Pawnkind_Enclave_President_Richardson_Sr>
                 </options>
             </li>
@@ -189,17 +189,52 @@
             <li>
                 <kindDef>Settlement</kindDef>
                 <options>
-                    <FCP_Pawnkind_Enclave_Dr_Schreber>10</FCP_Pawnkind_Enclave_Dr_Schreber>
+                    <FCP_Pawnkind_Enclave_Armored_Trooper>10</FCP_Pawnkind_Enclave_Armored_Trooper>
                     <FCP_Pawnkind_Enclave_Trooper>14</FCP_Pawnkind_Enclave_Trooper>
                     <FCP_Pawnkind_Enclave_Power_Armor_Trooper>10</FCP_Pawnkind_Enclave_Power_Armor_Trooper>
                     <FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>5</FCP_Pawnkind_Enclave_MKII_Power_Armor_Trooper>
-                    <FCP_Pawnkind_Enclave_Orion_Moreno>2</FCP_Pawnkind_Enclave_Orion_Moreno>
                     <FCP_Pawnkind_Enclave_President_Richardson_Sr>1</FCP_Pawnkind_Enclave_President_Richardson_Sr>
                 </options>
             </li>
         </pawnGroupMakers>
         <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
         <modExtensions Inherit="False">
+            <!-- Make them hostile to Wastelanders -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_Wasteland_Settlers</li>
+                </hostileFactionDefs>
+            </li>
+            <!-- Make them hostile to Lost Hills -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Lost_Hills</li>
+                </hostileFactionDefs>
+            </li>
+            <!-- Make them hostile to the Midwest BoS -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Midwest</li>
+                </hostileFactionDefs>
+            </li>
+            <!-- Make them hostile to the Lyons' Pride Remnants -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Lyons_Pride_Remnants</li>
+                </hostileFactionDefs>
+            </li>
+            <!-- Make them hostile to the Outcasts -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Outcast_Remnants</li>
+                </hostileFactionDefs>
+            </li>
+            <!-- Make them hostile to the BoS -->
+            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+                <hostileFactionDefs>
+                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS</li>
+                </hostileFactionDefs>
+            </li>
             <!-- Make them unable to use drop pods -->
             <li Class="FCP.Core.ModExtension_FactionBannedArrivalModes">
                 <arrivalModes>

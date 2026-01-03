@@ -120,7 +120,7 @@
                 <li>OnSkin</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Apparel</li>
+                <li>FCP_Enclave_Scientist_Apparel</li>
             </tags>
             <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
         </apparel>
@@ -183,7 +183,7 @@
                 <li>OnSkin</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Apparel</li>
+                <li>FCP_Enclave_Scientist_Apparel</li>
             </tags>
             <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
         </apparel>
@@ -255,7 +255,7 @@
                 <li>Shell</li>
             </layers>
             <tags>
-                <li>FCP_Enclave_Apparel</li>
+                <li>FCP_Enclave_Officer_Apparel</li>
             </tags>
         </apparel>
         <tradeTags>
@@ -360,6 +360,7 @@
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
             <drawSize>0.90</drawSize>
+            <color>(63, 63, 63)</color>
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
@@ -427,10 +428,11 @@
             <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
         </recipeMaker>
         <graphicData>
-            <texPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</texPath>
+            <texPath>Things/Apparel/Enclave_Armor/Enclave_Combat_Armor/FCP_Enclave_Combat_Armor_Pouches</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <shaderType>CutoutComplex</shaderType>
             <drawSize>0.90</drawSize>
+            <color>(63, 63, 63)</color>
         </graphicData>
         <techLevel>Industrial</techLevel>
         <costList>
@@ -462,7 +464,7 @@
                 <li>Arms</li>
                 <li>Legs</li>
             </bodyPartGroups>
-            <wornGraphicPath>Things/Apparel/Enclave_Apparel/Enclave_Sturdy_Combat_Armor/FCP_Enclave_Sturdy_Combat_Armor</wornGraphicPath>
+            <wornGraphicPath>Things/Apparel/Enclave_Armor/Enclave_Combat_Armor/FCP_Enclave_Combat_Armor_Pouches</wornGraphicPath>
             <layers>
                 <li>Shell</li>
             </layers>
