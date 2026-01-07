@@ -24,14 +24,14 @@
         <iconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</iconPath>
         <styleItemTags>
             <li>
-                <tag>Urban</tag>
+                <tag>Pre_War</tag>
                 <baseWeight>1</baseWeight>
                 <weightFactor>1</weightFactor>
             </li>
             <li>
-                <tag>Rural</tag>
-                <baseWeight>0</baseWeight>
-                <weightFactor>0</weightFactor>
+                <tag>Military</tag>
+                <baseWeight>1</baseWeight>
+                <weightFactor>1</weightFactor>
             </li>
             <li>
                 <tag>NoBeard</tag>
