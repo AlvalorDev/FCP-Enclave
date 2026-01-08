@@ -202,37 +202,12 @@
             <!-- Make them hostile to Wastelanders -->
             <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
                 <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_Wasteland_Settlers</li>
-                </hostileFactionDefs>
-            </li>
-            <!-- Make them hostile to Lost Hills -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
-                <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Lost_Hills</li>
-                </hostileFactionDefs>
-            </li>
-            <!-- Make them hostile to the Midwest BoS -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
-                <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Midwest</li>
-                </hostileFactionDefs>
-            </li>
-            <!-- Make them hostile to the Lyons' Pride Remnants -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
-                <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Lyons_Pride_Remnants</li>
-                </hostileFactionDefs>
-            </li>
-            <!-- Make them hostile to the Outcasts -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
-                <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS_Outcast_Remnants</li>
-                </hostileFactionDefs>
-            </li>
-            <!-- Make them hostile to the BoS -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
-                <hostileFactionDefs>
-                    <li MayRequire="altushka.boscompendium">FCP_Faction_BoS</li>
+                    <li MayRequire="Rick.FCP.Wastelanders">FCP_Faction_Wasteland_Settlers</li>
+                    <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS_Lost_Hills</li>
+                    <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS_Midwest</li>
+                    <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS_Lyons_Pride_Remnants</li>
+                    <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS_Outcast_Remnants</li>
+                    <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS</li>
                 </hostileFactionDefs>
             </li>
             <!-- Make them unable to use drop pods -->
