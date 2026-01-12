@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <!--__________ Enclave Character Backstories __________-->
+
+    <!-- President Dick Richardson -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Richardson_Child</defName>
+        <title>Political Dynasty Heir</title>
+        <titleShort>Dynasty Heir</titleShort>
+        <baseDesc>[PAWN_nameDef] was born into the Enclave's political elite on the Poseidon Oil Rig. [PAWN_pronoun] grew up surrounded by pre-war American ideals and the belief in genetic purity. From childhood, [PAWN_pronoun] was groomed for leadership, studying governance, rhetoric, and the Enclave's vision for America's restoration.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Richardson_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>4</Intellectual>
+            <Social>5</Social>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Richardson_Adult</defName>
+        <title>Enclave President</title>
+        <titleShort>President</titleShort>
+        <baseDesc>[PAWN_nameDef] became President of the Enclave, leading the remnants of the United States government. [PAWN_pronoun] championed the FEV Curling-13 project to eradicate all "mutated" life in the wasteland. [PAWN_possessive] unwavering belief in genetic purity made [PAWN_objective] a dangerous ideologue who would stop at nothing to achieve [PAWN_possessive] vision of a cleansed America.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Richardson_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>5</Intellectual>
+            <Social>8</Social>
+            <Shooting>2</Shooting>
+        </skillGains>
+        <forcedTraits>
+            <Psychopath>0</Psychopath>
+        </forcedTraits>
+    </BackstoryDef>
+
+    <!-- Colonel Augustus Autumn -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Autumn_Child</defName>
+        <title>Officer's Son</title>
+        <titleShort>Officer's Son</titleShort>
+        <baseDesc>[PAWN_nameDef] was born on the West Coast but traveled with [PAWN_possessive] father's unit to the Capital Wasteland. [PAWN_pronoun] grew up in military camps, learning discipline and combat tactics from an early age. The death of [PAWN_possessive] father instilled in [PAWN_objective] a fierce determination to prove [PAWN_possessive] worth and continue the family legacy.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Autumn_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>4</Shooting>
+            <Melee>3</Melee>
+            <Intellectual>2</Intellectual>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Autumn_Adult</defName>
+        <title>Enclave Colonel</title>
+        <titleShort>Colonel</titleShort>
+        <baseDesc>[PAWN_nameDef] rose to become Colonel and de facto leader of Enclave forces in the Capital Wasteland. Unlike Richardson, [PAWN_pronoun] believed the Enclave should control the wasteland's population rather than exterminate them. [PAWN_possessive] pragmatic approach and tactical brilliance made [PAWN_objective] a formidable commander, though [PAWN_pronoun] still held unwavering loyalty to Enclave supremacy.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Autumn_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>7</Shooting>
+            <Melee>6</Melee>
+            <Social>4</Social>
+            <Intellectual>4</Intellectual>
+        </skillGains>
+        <forcedTraits>
+            <Tough>0</Tough>
+        </forcedTraits>
+    </BackstoryDef>
+
+    <!-- Frank Horrigan -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Horrigan_Child</defName>
+        <title>Giant Child</title>
+        <titleShort>Giant</titleShort>
+        <baseDesc>[PAWN_nameDef] was born abnormally large even as a child. The Enclave saw [PAWN_possessive] size and strength as valuable assets rather than defects. [PAWN_pronoun] was trained from youth to be a weapon, learning to channel [PAWN_possessive] size into devastating combat effectiveness. [PAWN_pronoun] never questioned orders, only executed them.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Horrigan_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Melee>5</Melee>
+            <Shooting>3</Shooting>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Horrigan_Adult</defName>
+        <title>Secret Service Enforcer</title>
+        <titleShort>Enforcer</titleShort>
+        <baseDesc>[PAWN_nameDef] served in the Secret Service until exposure to FEV transformed [PAWN_objective] into a super mutant. Rather than terminate [PAWN_objective], the Enclave encased [PAWN_objective] in specially modified power armor, creating an unstoppable killing machine. [PAWN_pronoun] became the Enclave's ultimate enforcer, utterly loyal and mercilessly efficient. [PAWN_possessive] humanity was buried beneath layers of augmentation and conditioning.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Horrigan_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>9</Shooting>
+            <Melee>9</Melee>
+        </skillGains>
+        <forcedTraits>
+            <Bloodlust>0</Bloodlust>
+        </forcedTraits>
+        <workDisables>
+            <li>Social</li>
+            <li>Artistic</li>
+        </workDisables>
+    </BackstoryDef>
+
+    <!-- Sergeant Arch Dornan -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Dornan_Child</defName>
+        <title>Strict Upbringing</title>
+        <titleShort>Strict Child</titleShort>
+        <baseDesc>[PAWN_nameDef] grew up under extremely rigid military discipline on the Oil Rig. [PAWN_possessive] parents were both career soldiers who tolerated no deviation from protocol. This upbringing forged [PAWN_objective] into someone who valued order, discipline, and following procedures above all else. [PAWN_pronoun] had no patience for incompetence or excuses.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Dornan_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>4</Shooting>
+            <Melee>4</Melee>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Dornan_Adult</defName>
+        <title>Drill Sergeant</title>
+        <titleShort>Drill Sergeant</titleShort>
+        <baseDesc>[PAWN_nameDef] became the Enclave's most feared drill sergeant. [PAWN_pronoun] trained countless soldiers with brutal efficiency, accepting nothing less than perfection. [PAWN_possessive] legendary temper and devastating verbal tirades became infamous throughout Enclave ranks. While [PAWN_pronoun] was despised, the soldiers [PAWN_pronoun] trained were among the finest the Enclave had.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Dornan_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>7</Shooting>
+            <Melee>7</Melee>
+            <Social>-3</Social>
+        </skillGains>
+        <forcedTraits>
+            <Abrasive>0</Abrasive>
+        </forcedTraits>
+    </BackstoryDef>
+
+    <!-- Dr. Charles Curling -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Curling_Child</defName>
+        <title>Scientific Prodigy</title>
+        <titleShort>Prodigy</titleShort>
+        <baseDesc>[PAWN_nameDef] showed exceptional aptitude for biology and chemistry from a young age. The Enclave's scientific division nurtured [PAWN_possessive] talents, providing access to pre-war research data and advanced laboratory equipment. [PAWN_pronoun] studied virology and genetic engineering, fascinated by the potential to reshape humanity at the molecular level.</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Curling_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>6</Intellectual>
+            <Medicine>3</Medicine>
+        </skillGains>
+        <workDisables>
+            <li>ManualDumb</li>
+        </workDisables>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Curling_Adult</defName>
+        <title>Viral Weaponeer</title>
+        <titleShort>Weaponeer</titleShort>
+        <baseDesc>[PAWN_nameDef] developed the FEV Curling-13 virus, designed to kill anyone with even trace amounts of wasteland mutation. [PAWN_pronoun] justified this genocide as necessary for humanity's survival, believing only pure humans deserved to inherit Earth. [PAWN_possessive] brilliant but twisted mind created one of the most dangerous bioweapons in post-war history.</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Curling_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>9</Intellectual>
+            <Medicine>7</Medicine>
+            <Crafting>4</Crafting>
+        </skillGains>
+        <forcedTraits>
+            <Psychopath>0</Psychopath>
+        </forcedTraits>
+        <workDisables>
+            <li>ManualDumb</li>
+        </workDisables>
+    </BackstoryDef>
+
+    <!-- Dr. Anna Holt -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Holt_Child</defName>
+        <title>Brotherhood Trainee</title>
+        <titleShort>Trainee</titleShort>
+        <baseDesc>[PAWN_nameDef] was originally trained as a scribe in the Brotherhood of Steel. [PAWN_pronoun] excelled at advanced physics and engineering, working on Project Purity. However, [PAWN_pronoun] grew frustrated with the Brotherhood's cautious approach to technology and their unwillingness to push boundaries in pursuit of progress.</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Holt_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>5</Intellectual>
+            <Crafting>3</Crafting>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Holt_Adult</defName>
+        <title>Enclave Defector</title>
+        <titleShort>Defector</titleShort>
+        <baseDesc>[PAWN_nameDef] defected to the Enclave, believing they had the resources and willingness to complete Project Purity properly. [PAWN_pronoun] worked on adapting the purifier to the Enclave's needs, though [PAWN_pronoun] was kept in the dark about Colonel Autumn's true plans. [PAWN_possessive] scientific ambition blinded [PAWN_objective] to the Enclave's darker intentions.</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Holt_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>8</Intellectual>
+            <Crafting>6</Crafting>
+            <Social>2</Social>
+        </skillGains>
+    </BackstoryDef>
+
+    <!-- Whitley -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Whitley_Child</defName>
+        <title>Robotics Enthusiast</title>
+        <titleShort>Enthusiast</titleShort>
+        <baseDesc>[PAWN_nameDef] was fascinated by robots and artificial intelligence from childhood. [PAWN_pronoun] spent countless hours studying pre-war robotics manuals and programming guides. The Enclave recognized [PAWN_possessive] talent and provided specialized training in cybernetics and AI systems.</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Whitley_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>5</Intellectual>
+            <Crafting>4</Crafting>
+        </skillGains>
+        <workDisables>
+            <li>ManualDumb</li>
+        </workDisables>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Whitley_Adult</defName>
+        <title>Hellfire Engineer</title>
+        <titleShort>Engineer</titleShort>
+        <baseDesc>[PAWN_nameDef] worked in Enclave research facilities, helping develop the Hellfire power armor and advanced combat robots. [PAWN_pronoun] became socially isolated, preferring the company of machines to people. [PAWN_possessive] work was brilliant but [PAWN_pronoun] rarely considered the ethical implications of [PAWN_possessive] creations. Eventually, the weight of what [PAWN_pronoun] had helped create began to trouble [PAWN_objective].</baseDesc>
+        <bodyTypeMale>Thin</bodyTypeMale>
+        <bodyTypeFemale>Thin</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Whitley_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Intellectual>7</Intellectual>
+            <Crafting>8</Crafting>
+            <Social>-2</Social>
+        </skillGains>
+        <workDisables>
+            <li>ManualDumb</li>
+        </workDisables>
+    </BackstoryDef>
+
+    <!-- Lieutenant Colonel Nathan Vickers -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Vickers_Child</defName>
+        <title>Elite Cadet</title>
+        <titleShort>Cadet</titleShort>
+        <baseDesc>[PAWN_nameDef] was selected for elite officer training from an early age. [PAWN_pronoun] excelled in tactical simulations and power armor operations. The Enclave's instructors saw [PAWN_objective] as officer material, grooming [PAWN_objective] for command positions in their most critical operations.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Vickers_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>4</Shooting>
+            <Melee>4</Melee>
+            <Intellectual>2</Intellectual>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Vickers_Adult</defName>
+        <title>Hellfire Commander</title>
+        <titleShort>Commander</titleShort>
+        <baseDesc>[PAWN_nameDef] commanded Enclave Hellfire trooper units in the Capital Wasteland. [PAWN_pronoun] led brutal operations against Brotherhood of Steel positions and wastelander settlements. [PAWN_possessive] tactical acumen and ruthless efficiency made [PAWN_objective] one of Colonel Autumn's most valuable officers. [PAWN_pronoun] wore the experimental Hellfire armor, marking [PAWN_objective] as an elite among elites.</baseDesc>
+        <bodyTypeMale>Hulk</bodyTypeMale>
+        <bodyTypeFemale>Hulk</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Vickers_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>8</Shooting>
+            <Melee>7</Melee>
+            <Social>3</Social>
+            <Intellectual>3</Intellectual>
+        </skillGains>
+        <forcedTraits>
+            <Tough>0</Tough>
+        </forcedTraits>
+    </BackstoryDef>
+
+    <!-- Major Thomas Manderly -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Manderly_Child</defName>
+        <title>Strategic Thinker</title>
+        <titleShort>Strategist</titleShort>
+        <baseDesc>[PAWN_nameDef] showed talent for strategic thinking and logistics from youth. [PAWN_pronoun] studied pre-war military campaigns and learned to coordinate complex operations. The Enclave trained [PAWN_objective] in both combat leadership and strategic planning, preparing [PAWN_objective] for field command.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Manderly_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>3</Shooting>
+            <Intellectual>4</Intellectual>
+            <Social>3</Social>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Manderly_Adult</defName>
+        <title>Field Major</title>
+        <titleShort>Major</titleShort>
+        <baseDesc>[PAWN_nameDef] served as a field major, coordinating Enclave operations across multiple fronts. [PAWN_pronoun] commanded squads in X-02 power armor and planned strategic strikes against enemy positions. [PAWN_possessive] ability to adapt tactics to changing battlefield conditions earned [PAWN_objective] respect from both superiors and subordinates.</baseDesc>
+        <bodyTypeMale>Male</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Manderly_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>7</Shooting>
+            <Melee>6</Melee>
+            <Social>4</Social>
+            <Intellectual>4</Intellectual>
+        </skillGains>
+    </BackstoryDef>
+
+    <!-- Captain Elizabeth Moreau -->
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Moreau_Child</defName>
+        <title>Military Brat</title>
+        <titleShort>Military Kid</titleShort>
+        <baseDesc>[PAWN_nameDef] grew up as a military child, moving between Enclave facilities. [PAWN_pronoun] learned to adapt quickly and became proficient in various combat scenarios. Watching [PAWN_possessive] parents serve with distinction inspired [PAWN_objective] to pursue a military career and prove [PAWN_pronoun] could excel in the male-dominated officer corps.</baseDesc>
+        <bodyTypeMale>Female</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Childhood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Moreau_Child</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>4</Shooting>
+            <Melee>3</Melee>
+            <Social>2</Social>
+        </skillGains>
+    </BackstoryDef>
+
+    <BackstoryDef>
+        <defName>FCP_Character_Backstory_Moreau_Adult</defName>
+        <title>Enclave Captain</title>
+        <titleShort>Captain</titleShort>
+        <baseDesc>[PAWN_nameDef] earned [PAWN_possessive] captain's rank through demonstrated combat excellence and tactical leadership. [PAWN_pronoun] commanded power armor squads in frontline operations, proving that skill and determination mattered more than gender. [PAWN_possessive] troops respected [PAWN_objective] for leading from the front and never asking them to do anything [PAWN_pronoun] wouldn't do [PAWN_pronoun]self.</baseDesc>
+        <bodyTypeMale>Female</bodyTypeMale>
+        <bodyTypeFemale>Female</bodyTypeFemale>
+        <slot>Adulthood</slot>
+        <spawnCategories>
+            <li>FCP_Character_Backstory_Moreau_Adult</li>
+        </spawnCategories>
+        <skillGains>
+            <Shooting>7</Shooting>
+            <Melee>6</Melee>
+            <Social>3</Social>
+        </skillGains>
+        <forcedTraits>
+            <Brawler>0</Brawler>
+        </forcedTraits>
+    </BackstoryDef>
+
+</Defs>
