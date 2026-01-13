@@ -5,7 +5,7 @@
 		<defName>FCP_LeaderTitleMaker_Enclave</defName>
 		<rulePack>
 			<rulesStrings>
-				<li>r_leaderTitle->elder</li>
+				<li>r_leaderTitle->president</li>
 			</rulesStrings>
 		</rulePack>
 	</RulePackDef>
