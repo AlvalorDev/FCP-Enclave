@@ -67,7 +67,7 @@
         <backstoryFiltersOverride>
             <li>
                 <categoriesChildhood>
-                    <li>FCP_Backstory_Enclave_Child</li>
+                    <li>FCP_Backstory_Enclave</li>
                 </categoriesChildhood>
                 <categoriesAdulthood>
                     <li>FCP_Backstory_Enclave_President_Richardson_Sr</li>

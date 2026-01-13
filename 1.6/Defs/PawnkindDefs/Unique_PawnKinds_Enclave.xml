@@ -111,7 +111,8 @@
         <gearHealthRange>1.0~1.0</gearHealthRange>
         <apparelRequired>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
-            <li>FCP_Apparel_Enclave_Officer_Uniform</li>
+            <li>FCP_Apparel_Enclave_Jumpsuit</li>
+            <li>FCP_Apparel_Enclave_Officer_Coat</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor_MkII</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor_MkII_Helmet</li>
         </apparelRequired>
@@ -164,7 +165,6 @@
         <gearHealthRange>1.0~1.0</gearHealthRange>
         <apparelRequired>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
-            <li>FCP_Apparel_Enclave_Officer_Uniform</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet</li>
         </apparelRequired>
@@ -220,7 +220,7 @@
             <li>FCP_Apparel_Enclave_Scientist_Boots</li>
             <li>FCP_Apparel_Enclave_Scientist_Glove</li>
         </apparelRequired>
-        <weaponMoney>800~1200</weaponMoney>
+        <weaponMoney>1200~1400</weaponMoney>
         <weaponTags>
             <li MayRequire="Rick.FCP.EnergyWeapons">FCP_Enclave_Weapon</li>
         </weaponTags>
@@ -269,7 +269,7 @@
             <li>FCP_Apparel_Enclave_Scientist_Boots</li>
             <li>FCP_Apparel_Enclave_Scientist_Glove</li>
         </apparelRequired>
-        <weaponMoney>700~1100</weaponMoney>
+        <weaponMoney>1200~1350</weaponMoney>
         <weaponTags>
             <li MayRequire="Rick.FCP.EnergyWeapons">FCP_Enclave_Weapon</li>
         </weaponTags>
@@ -318,7 +318,7 @@
             <li>FCP_Apparel_Enclave_Scientist_Boots</li>
             <li>FCP_Apparel_Enclave_Scientist_Glove</li>
         </apparelRequired>
-        <weaponMoney>600~1000</weaponMoney>
+        <weaponMoney>1200~1300</weaponMoney>
         <weaponTags>
             <li MayRequire="Rick.FCP.EnergyWeapons">FCP_Enclave_Weapon</li>
         </weaponTags>
@@ -364,7 +364,6 @@
         <gearHealthRange>1.0~1.0</gearHealthRange>
         <apparelRequired>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
-            <li>FCP_Apparel_Enclave_Officer_Uniform</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Hellfire_Power_Armor</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Hellfire_Power_Armor_Helmet</li>
         </apparelRequired>
@@ -417,7 +416,6 @@
         <gearHealthRange>0.9~1.0</gearHealthRange>
         <apparelRequired>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
-            <li>FCP_Apparel_Enclave_Officer_Uniform</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_X02_Power_Armor</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_X02_Power_Armor_Helmet</li>
         </apparelRequired>
@@ -470,7 +468,6 @@
         <gearHealthRange>0.9~1.0</gearHealthRange>
         <apparelRequired>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Power_Armor_Frame</li>
-            <li>FCP_Apparel_Enclave_Officer_Uniform</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor</li>
             <li MayRequire="Rick.FCP.PowerArmor">FCP_Apparel_Enclave_Advanced_Power_Armor_Helmet</li>
         </apparelRequired>
