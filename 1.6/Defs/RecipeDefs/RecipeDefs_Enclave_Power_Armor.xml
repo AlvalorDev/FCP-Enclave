@@ -60,7 +60,7 @@
         </recipeUsers>
         <researchPrerequisite>FCP_Research_Enclave_Advanced_Power_Armor</researchPrerequisite>
         <modExtensions>
-            <li Class="RecipeGoodwillLimiter.RecipeExtension_GoodwillCheck">
+            <li Class="FCP.Core.RecipeExtension_GoodwillCheck">
                 <requireFaction>FCP_Faction_Enclave</requireFaction>
                 <minimumGoodwill>70</minimumGoodwill>
                 <uncraftableIfFactionDefeated>true</uncraftableIfFactionDefeated>
@@ -125,7 +125,7 @@
         </recipeUsers>
         <researchPrerequisite>FCP_Research_Enclave_Advanced_Power_Armor_MkII</researchPrerequisite>
         <modExtensions>
-            <li Class="RecipeGoodwillLimiter.RecipeExtension_GoodwillCheck">
+            <li Class="FCP.Core.RecipeExtension_GoodwillCheck">
                 <requireFaction>FCP_Faction_Enclave</requireFaction>
                 <minimumGoodwill>85</minimumGoodwill>
                 <uncraftableIfFactionDefeated>true</uncraftableIfFactionDefeated>
