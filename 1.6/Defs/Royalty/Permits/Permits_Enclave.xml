@@ -35,7 +35,7 @@
             <favorCost>6</favorCost>
         </royalAid>
         <modExtensions>
-            <li Class="FCP.Factions.MaxTitlePermitExtension">
+            <li Class="FCP.Factions.PermitExtension_MaxFactionTitle">
                 <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
             </li>
         </modExtensions>
@@ -60,7 +60,7 @@
             <favorCost>8</favorCost>
         </royalAid>
         <modExtensions>
-            <li Class="FCP.Factions.MaxTitlePermitExtension">
+            <li Class="FCP.Factions.PermitExtension_MaxFactionTitle">
                 <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
             </li>
         </modExtensions>
@@ -86,7 +86,7 @@
             <favorCost>8</favorCost>
         </royalAid>
         <modExtensions>
-            <li Class="FCP.Factions.MaxTitlePermitExtension">
+            <li Class="FCP.Factions.PermitExtension_MaxFactionTitle">
                 <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
             </li>
         </modExtensions>
@@ -111,7 +111,7 @@
             <favorCost>12</favorCost>
         </royalAid>
         <modExtensions>
-            <li Class="FCP.Factions.MaxTitlePermitExtension">
+            <li Class="FCP.Factions.PermitExtension_MaxFactionTitle">
                 <maxTitle>FCP_Title_Enclave_Colonel</maxTitle>
             </li>
         </modExtensions>

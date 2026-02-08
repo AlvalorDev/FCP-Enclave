@@ -205,7 +205,7 @@
         <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
         <modExtensions Inherit="False">
             <!-- Make them hostile to Wastelanders -->
-            <li Class="FCP.Core.ModExtension_FactionPermanentlyHostileTo">
+            <li Class="FCP.Factions.FactionExtension_PermanentlyHostileTo">
                 <hostileFactionDefs>
                     <li MayRequire="Rick.FCP.Wastelanders">FCP_Faction_Wasteland_Settlers</li>
                     <li MayRequire="Rick.FCP.BOS">FCP_Faction_BoS_Lost_Hills</li>
@@ -216,7 +216,7 @@
                 </hostileFactionDefs>
             </li>
             <!-- Make them unable to use drop pods -->
-            <li Class="FCP.Core.ModExtension_FactionBannedArrivalModes">
+            <li Class="FCP.Factions.FactionExtension_BannedArrivalModes">
                 <arrivalModes>
                     <li>EdgeDrop</li>
                     <li>EdgeDropGroups</li>
@@ -225,7 +225,7 @@
                 </arrivalModes>
             </li>
             <!-- Ideology stuff -->
-            <li Class="FCP.Core.ModExtension_FixedIdeo">
+            <li Class="FCP.Factions.FactionExtension_FixedIdeo">
                 <ideoIconDef>FCP_Icon_Enclave</ideoIconDef>
                 <ideoColorDef>LightGrey</ideoColorDef>
                 <memberName>Constituent</memberName>
@@ -245,7 +245,7 @@
                 <ignoreAutoAssignedDefs>true</ignoreAutoAssignedDefs>
             </li>
             <!-- Make them unable to use drop pods -->
-            <li Class="FCP.Core.ModExtension_FactionBannedArrivalModes">
+            <li Class="FCP.Factions.FactionExtension_BannedArrivalModes">
                 <arrivalModes>
                     <li>EdgeDrop</li>
                     <li>EdgeDropGroups</li>
