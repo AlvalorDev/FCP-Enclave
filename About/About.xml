@@ -16,6 +16,11 @@
             <displayName>FCP - Tools</displayName>
             <downloadUrl>https://github.com/FalloutCollaborationProject/FCP-Tools</downloadUrl>
         </li>
+        <li>
+            <packageId>Rick.FCP.PowerArmor</packageId>
+            <displayName>FCP - Power Armors</displayName>
+            <downloadUrl>https://github.com/FalloutCollaborationProject/FCP-PowerArmor</downloadUrl>
+        </li>
     </modDependencies>
     <loadAfter>
         <li>Rick.FCP.Core.Tools</li>
