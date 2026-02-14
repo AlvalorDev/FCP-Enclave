@@ -21,6 +21,9 @@
         <canSiege>true</canSiege>
         <canStageAttacks>true</canStageAttacks>
         <leaderTitle>President</leaderTitle>
+        <fixedLeaderKinds>
+            <li>FCP_Pawnkind_Enclave_President_Richardson_Sr</li>
+        </fixedLeaderKinds>
         <factionIconPath>World_Icon/Enclave_Icon/FCP_Enclave_World_Icon</factionIconPath>
         <techLevel>Industrial</techLevel>
         <fixedName>The Enclave</fixedName>
